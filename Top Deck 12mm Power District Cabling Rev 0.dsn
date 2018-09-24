@@ -1,0 +1,604 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--This file was written by TinyCAD Version 2.90.00 Build #686 Production Release
+If you wish to view this file go to http://tinycad.sourceforge.net to
+download the executable.-->
+<TinyCADSheets>
+	<TinyCAD>
+		<NAME>Sheet 1</NAME>
+		<DETAILS>
+			<Size width='2100' height='1485'/>
+			<GUIDES horiz='7' vert='5'/>
+			<TITLE>Top Deck 12mm Power District Cabling</TITLE>
+			<AUTHOR>K MAIZEY</AUTHOR>
+			<REVISION>Rev 0</REVISION>
+			<DOCNUMBER>03</DOCNUMBER>
+			<ORGANISATION>RMCQ</ORGANISATION>
+			<SHEETS>1 of 1</SHEETS>
+			<SHOWS>3</SHOWS>
+			<DATE>22 Jun 2018</DATE>
+			<GRID spacing='100.00000' snap='1'/>
+		</DETAILS>
+		<FONT id='1'>
+			<HEIGHT>-10</HEIGHT>
+			<WIDTH>0</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='3'>
+			<HEIGHT>-21</HEIGHT>
+			<WIDTH>12</WIDTH>
+			<WEIGHT>900</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial Black</FACENAME>
+		</FONT>
+		<FONT id='4'>
+			<HEIGHT>-21</HEIGHT>
+			<WIDTH>12</WIDTH>
+			<WEIGHT>900</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial Black</FACENAME>
+		</FONT>
+		<FONT id='5'>
+			<HEIGHT>-21</HEIGHT>
+			<WIDTH>10</WIDTH>
+			<WEIGHT>700</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='6'>
+			<HEIGHT>-16</HEIGHT>
+			<WIDTH>9</WIDTH>
+			<WEIGHT>900</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial Black</FACENAME>
+		</FONT>
+		<FONT id='7'>
+			<HEIGHT>-16</HEIGHT>
+			<WIDTH>9</WIDTH>
+			<WEIGHT>900</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial Black</FACENAME>
+		</FONT>
+		<FONT id='8'>
+			<HEIGHT>-16</HEIGHT>
+			<WIDTH>9</WIDTH>
+			<WEIGHT>900</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial Black</FACENAME>
+		</FONT>
+		<FONT id='9'>
+			<HEIGHT>-16</HEIGHT>
+			<WIDTH>9</WIDTH>
+			<WEIGHT>900</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial Black</FACENAME>
+		</FONT>
+		<FONT id='10'>
+			<HEIGHT>-16</HEIGHT>
+			<WIDTH>9</WIDTH>
+			<WEIGHT>900</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial Black</FACENAME>
+		</FONT>
+		<FONT id='11'>
+			<HEIGHT>-24</HEIGHT>
+			<WIDTH>13</WIDTH>
+			<WEIGHT>900</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial Black</FACENAME>
+		</FONT>
+		<FONT id='12'>
+			<HEIGHT>-21</HEIGHT>
+			<WIDTH>9</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='13'>
+			<HEIGHT>-21</HEIGHT>
+			<WIDTH>9</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='14'>
+			<HEIGHT>-21</HEIGHT>
+			<WIDTH>9</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='15'>
+			<HEIGHT>-21</HEIGHT>
+			<WIDTH>9</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='16'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='17'>
+			<HEIGHT>-26</HEIGHT>
+			<WIDTH>7</WIDTH>
+			<WEIGHT>900</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial Black</FACENAME>
+		</FONT>
+		<FONT id='18'>
+			<HEIGHT>-21</HEIGHT>
+			<WIDTH>12</WIDTH>
+			<WEIGHT>900</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial Black</FACENAME>
+		</FONT>
+		<FONT id='19'>
+			<HEIGHT>-24</HEIGHT>
+			<WIDTH>13</WIDTH>
+			<WEIGHT>900</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial Black</FACENAME>
+		</FONT>
+		<FONT id='20'>
+			<HEIGHT>-21</HEIGHT>
+			<WIDTH>12</WIDTH>
+			<WEIGHT>900</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial Black</FACENAME>
+		</FONT>
+		<FONT id='21'>
+			<HEIGHT>-21</HEIGHT>
+			<WIDTH>12</WIDTH>
+			<WEIGHT>900</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial Black</FACENAME>
+		</FONT>
+		<FONT id='22'>
+			<HEIGHT>-21</HEIGHT>
+			<WIDTH>12</WIDTH>
+			<WEIGHT>900</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial Black</FACENAME>
+		</FONT>
+		<STYLE id='2'>
+			<STYLE>0</STYLE>
+			<COLOR>FF0000</COLOR>
+			<THICKNESS>4</THICKNESS>
+		</STYLE>
+		<STYLE id='3'>
+			<STYLE>0</STYLE>
+			<COLOR>FFFF80</COLOR>
+			<THICKNESS>5</THICKNESS>
+		</STYLE>
+		<STYLE id='4'>
+			<STYLE>0</STYLE>
+			<COLOR>FF80FF</COLOR>
+			<THICKNESS>5</THICKNESS>
+		</STYLE>
+		<STYLE id='5'>
+			<STYLE>0</STYLE>
+			<COLOR>008080</COLOR>
+			<THICKNESS>5</THICKNESS>
+		</STYLE>
+		<STYLE id='6'>
+			<STYLE>0</STYLE>
+			<COLOR>0000FF</COLOR>
+			<THICKNESS>5</THICKNESS>
+		</STYLE>
+		<STYLE id='7'>
+			<STYLE>0</STYLE>
+			<COLOR>FF0000</COLOR>
+			<THICKNESS>5</THICKNESS>
+		</STYLE>
+		<STYLE id='8'>
+			<STYLE>0</STYLE>
+			<COLOR>FF0000</COLOR>
+			<THICKNESS>5</THICKNESS>
+		</STYLE>
+		<STYLE id='9'>
+			<STYLE>0</STYLE>
+			<COLOR>FF80FF</COLOR>
+			<THICKNESS>5</THICKNESS>
+		</STYLE>
+		<STYLE id='10'>
+			<STYLE>0</STYLE>
+			<COLOR>000000</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='13'>
+			<STYLE>0</STYLE>
+			<COLOR>0000FF</COLOR>
+			<THICKNESS>3</THICKNESS>
+		</STYLE>
+		<STYLE id='14'>
+			<STYLE>0</STYLE>
+			<COLOR>FF80FF</COLOR>
+			<THICKNESS>3</THICKNESS>
+		</STYLE>
+		<STYLE id='15'>
+			<STYLE>0</STYLE>
+			<COLOR>000000</COLOR>
+			<THICKNESS>1</THICKNESS>
+		</STYLE>
+		<STYLE id='16'>
+			<STYLE>0</STYLE>
+			<COLOR>000000</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<STYLE id='17'>
+			<STYLE>0</STYLE>
+			<COLOR>FF0000</COLOR>
+			<THICKNESS>1</THICKNESS>
+		</STYLE>
+		<STYLE id='20'>
+			<STYLE>2</STYLE>
+			<COLOR>0000FF</COLOR>
+			<THICKNESS>5</THICKNESS>
+		</STYLE>
+		<FILL id='0'>
+			<INDEX>-1</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='1'>
+			<INDEX>0</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='2'>
+			<INDEX>0</INDEX>
+			<COLOR>AFFFFF</COLOR>
+		</FILL>
+		<FILL id='3'>
+			<INDEX>0</INDEX>
+			<COLOR>AFFFFF</COLOR>
+		</FILL>
+		<FILL id='5'>
+			<INDEX>0</INDEX>
+			<COLOR>AFFFFF</COLOR>
+		</FILL>
+		<SYMBOLDEF id='1'>
+			<NAME type='0'>Arrow for anotations</NAME>
+			<REF type='1'>T?</REF>
+			<DESCRIPTION>Arrow for anotations</DESCRIPTION>
+			<PPP>1</PPP>
+			<FIELD>
+				<NAME>$$SPICE_PROLOG_PRIORITY</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000002</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>$$SPICE_EPILOG_PRIORITY</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000002</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>Package</NAME>
+				<DEFAULT>package name for PCB layout</DEFAULT>
+				<FT>000001</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<REF_POINT power='0' part='0' pos='62.00000,34.00000'/>
+			<TinyCAD>
+				<POLYGON pos='60.00000,32.00000' style='15' fill='0'>
+					<POINT pos='1.00000,0.00000' arc='0'/>
+					<POINT pos='0.00000,2.00000' arc='0'/>
+				</POLYGON>
+				<POLYGON pos='61.00000,32.00000' style='15' fill='0'>
+					<POINT pos='0.00000,0.00000' arc='0'/>
+					<POINT pos='1.00000,2.00000' arc='0'/>
+				</POLYGON>
+			</TinyCAD>
+		</SYMBOLDEF>
+		<SYMBOLDEF id='2'>
+			<NAME type='1'>Track Power</NAME>
+			<REF type='1'>U?</REF>
+			<DESCRIPTION></DESCRIPTION>
+			<PPP>1</PPP>
+			<FIELD>
+				<NAME>$$SPICE_PROLOG_PRIORITY</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000002</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>$$SPICE_EPILOG_PRIORITY</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000002</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>Package</NAME>
+				<DEFAULT>package name for PCB layout</DEFAULT>
+				<FT>000001</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<REF_POINT power='0' part='0' pos='166.00000,88.00000'/>
+			<TinyCAD>
+				<WIRE style='10' a='164.00000,78.00000' b='164.00000,88.00000'/>
+				<WIRE style='10' a='164.00000,82.00000' b='166.00000,78.00000'/>
+				<WIRE style='10' a='164.00000,82.00000' b='162.00000,78.00000'/>
+				<POLYGON pos='162.00000,82.00000' style='16' fill='1'>
+					<POINT pos='2.00000,0.00000' arc='0'/>
+					<POINT pos='0.00000,2.00000' arc='0'/>
+					<POINT pos='4.00000,2.00000' arc='0'/>
+					<POINT pos='2.00000,0.00000' arc='0'/>
+				</POLYGON>
+			</TinyCAD>
+		</SYMBOLDEF>
+		<OPTIONS>
+			<GRID>1</GRID>
+			<UNITS>0</UNITS>
+			<COLOR_WIRE>FF0000</COLOR_WIRE>
+			<COLOR_BUS>0000FF</COLOR_BUS>
+			<COLOR_JUNCTION>000000</COLOR_JUNCTION>
+			<COLOR_NOCONNECT>000000</COLOR_NOCONNECT>
+			<COLOR_LABEL>208000</COLOR_LABEL>
+			<COLOR_POWER>000000</COLOR_POWER>
+			<COLOR_PIN>4040C0</COLOR_PIN>
+			<COLOR_HIDDEN_PIN>208020</COLOR_HIDDEN_PIN>
+			<COLOR_BACKGROUND>FFFFFF</COLOR_BACKGROUND>
+			<COLOR_NOTETEXT_FILL>AFFFFF</COLOR_NOTETEXT_FILL>
+			<COLOR_NOTETEXT_LINE>FF0000</COLOR_NOTETEXT_LINE>
+			<COLOR_NOTETEXT_TEXT>FF0000</COLOR_NOTETEXT_TEXT>
+		</OPTIONS>
+		<WIRE style='2' a='20.67600,11.01400' b='20.91260,284.81000'/>
+		<WIRE style='7' a='264.00000,284.00000' b='20.91191,284.00917'/>
+		<BUS style='8' a='409.11140,12.00000' b='20.00000,12.00000'/>
+		<BUS style='8' a='56.00000,56.00000' b='381.34500,56.05500'/>
+		<BUS style='8' a='381.34500,56.05500' b='381.58160,56.08300'/>
+		<BUS style='8' a='264.45020,234.21640' b='56.00000,234.00000'/>
+		<BUS style='8' a='56.00000,174.00000' b='314.64800,173.47200'/>
+		<BUS style='8' a='410.00000,12.00000' b='410.00000,242.00000'/>
+		<BUS style='8' a='410.00000,242.00000' b='358.00000,242.00000'/>
+		<BUS style='8' a='358.00000,242.00000' b='358.00000,182.00000'/>
+		<BUS style='8' a='358.00000,182.00000' b='382.00000,128.00000'/>
+		<BUS style='8' a='382.00000,128.00000' b='382.00000,56.00000'/>
+		<BUS style='8' a='264.00000,234.00000' b='264.00000,284.00000'/>
+		<BUS style='8' a='56.00000,234.00000' b='56.00000,174.00000'/>
+		<BUS style='8' a='314.00000,174.00000' b='314.00000,100.00000'/>
+		<BUS style='8' a='314.00000,100.00000' b='56.00000,100.00000'/>
+		<BUS style='8' a='56.00000,100.00000' b='56.00000,56.00000'/>
+		<NOTE_TEXT a='96.96000,19.56000' b='191.28000,37.56000' direction='3' style='17' fill='5' font='13' color='FF0000' border_style='1'>12S BUS
+1. Red dropper connected to Orange buss wire
+2. White Dropper connected to Brown Buss wire</NOTE_TEXT>
+		<NOTE_TEXT a='202.00000,31.01800' b='322.38000,37.01800' direction='3' style='17' fill='3' font='12' color='FF0000' border_style='1'>Orange feed wire is same phase as16mm black feed wire</NOTE_TEXT>
+		<BUS style='6' a='46.00000,46.00000' b='356.00000,46.00000'/>
+		<BUSNAME pos='251.29600,45.85800' direction='3' font='3' color='208000'>12S</BUSNAME>
+		<BUS a='46.00000,46.00000' b='46.26000,115.48000'/>
+		<BUS style='5' a='244.26000,115.48000' b='256.00000,122.00000'/>
+		<RECTANGLE a='223.12154,93.92308' b='243.14154,97.84308' style='15' fill='0'/>
+		<TEXT pos='224.82327,98.25272' direction='3' font='7' color='000000'>AR-12SR</TEXT>
+		<BUS style='6' a='244.26000,115.48000' b='46.26000,115.48000'/>
+		<BUSNAME pos='120.00000,116.00000' direction='3' font='3' color='208000'>12S</BUSNAME>
+		<TEXT pos='228.16876,160.72331' direction='3' font='10' color='000000'>DOUBLE SLIP</TEXT>
+		<BUS style='5' a='256.00000,122.00000' b='266.00000,118.00000'/>
+		<BUS style='4' a='308.00000,118.00000' b='308.00000,152.00000'/>
+		<BUS style='5' a='256.00000,122.00000' b='262.00000,126.00000'/>
+		<BUS style='5' a='256.00000,122.00000' b='228.00000,122.00000'/>
+		<BUS style='4' a='262.00000,126.00000' b='286.00000,110.00000'/>
+		<BUS style='9' a='286.00000,110.00000' b='308.00000,118.00000'/>
+		<BUS style='4' a='308.00000,152.00000' b='278.00000,164.00000'/>
+		<BUS style='4' a='278.00000,164.00000' b='250.00000,152.00000'/>
+		<BUS style='6' a='228.00000,146.00000' b='76.00000,146.00000'/>
+		<BUS style='4' a='262.00000,126.00000' b='226.00000,140.00000'/>
+		<BUS style='5' a='250.00000,152.00000' b='234.00000,144.00000'/>
+		<BUS style='5' a='228.00000,146.00000' b='246.00000,146.00000'/>
+		<BUS style='4' a='226.00000,140.00000' b='234.00000,144.00000'/>
+		<BUS style='3' a='76.00000,146.00000' b='76.00000,170.00000'/>
+		<BUS style='3' a='76.00000,170.00000' b='290.00000,170.00000'/>
+		<BUS style='3' a='76.00000,146.00000' b='76.00000,146.00000'/>
+		<JUNCTION pos='78.00000,116.00000'/>
+		<RECTANGLE a='286.00000,138.00000' b='300.00000,144.00000' style='15' fill='0'/>
+		<TEXT pos='287.56000,143.22000' direction='3' font='8' color='000000'>EB-T4</TEXT>
+		<BUS style='3' a='290.00000,170.00000' b='290.00000,144.00000'/>
+		<WIRE a='76.00000,144.00000' b='76.00000,150.00000'/>
+		<BUSNAME pos='120.00000,170.00000' direction='3' font='4' color='000000'>12N FEED</BUSNAME>
+		<TEXT pos='74.48000,115.50000' direction='3' font='6' color='000000'>TB29 </TEXT>
+		<TEXT pos='244.41403,155.51711' direction='0' font='9' color='000000'>-------</TEXT>
+		<SYMBOL id='1' pos='243.25265,149.51340' part='0' rotate='4' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='1' description='Ref' value='T?' show='0' pos='1.00000,0.00000'/>
+			<FIELD type='0' description='Name' value='Arrow for anotations' show='0' pos='1.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,2.40000'/>
+		</SYMBOL>
+		<LABEL pos='152.26000,169.96000' direction='3' font='5' color='000000' style='0'>Yellow &amp; Brown</LABEL>
+		<LABEL pos='254.26000,154.26000' direction='3' font='5' color='000000' style='0'>Blue &amp; Black</LABEL>
+		<NOTE_TEXT a='73.62000,207.86000' b='168.02000,224.48000' direction='3' style='17' fill='5' font='15' color='FF0000' border_style='1'>1.Red dropper connected to Yellow buss wire.
+2. White dropper connected to Brown buss wire</NOTE_TEXT>
+		<LABEL pos='140.00000,46.00000' direction='3' font='5' color='000000' style='0'>Orange &amp; Brown</LABEL>
+		<BUS style='3' a='76.00000,146.00000' b='38.00000,146.00000'/>
+		<BUS style='3' a='38.00000,146.00000' b='38.00000,270.00000'/>
+		<TEXT pos='58.00000,138.00000' direction='3' font='10' color='000000'>---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</TEXT>
+		<BUS a='78.00000,116.00000' b='78.00000,146.00000'/>
+		<TEXT pos='136.00000,136.00000' direction='3' font='11' color='000000'>C/L of peninsula</TEXT>
+		<BUS style='3' a='38.00000,270.00000' b='256.00000,270.00000'/>
+		<BUS style='3' a='256.00000,270.00000' b='256.00000,242.00000'/>
+		<BUS style='3' a='256.00000,242.00000' b='226.00000,242.00000'/>
+		<BUS style='3' a='226.00000,242.00000' b='210.00000,256.00000'/>
+		<BUS style='3' a='192.00000,270.00000' b='208.00000,258.00000'/>
+		<WIRE a='208.00000,254.00000' b='212.00000,258.00000'/>
+		<WIRE a='206.00000,256.00000' b='210.00000,260.00000'/>
+		<LABEL pos='81.66000,269.50000' direction='3' font='5' color='000000' style='0'>Yellow &amp; Brown</LABEL>
+		<BUSNAME pos='162.00000,270.00000' direction='3' font='4' color='000040'>12N</BUSNAME>
+		<BUSNAME pos='28.00000,202.00000' direction='3' font='4' color='000040'>12N</BUSNAME>
+		<ELLIPSE a='141.28994,106.00000' b='155.28994,130.00000' style='15' fill='0'/>
+		<NOTE_TEXT a='122.00000,90.00000' b='194.00000,98.00000' direction='3' style='17' fill='3' font='14' color='FF0000' border_style='1'>Multiple tracks fed off this buss</NOTE_TEXT>
+		<WIRE a='148.00000,98.00000' b='148.00000,106.00000'/>
+		<SYMBOL id='2' pos='242.00000,206.00000' part='0' rotate='0' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='1' description='Ref' value='U?' show='0' pos='1.00000,-8.00000'/>
+			<FIELD type='1' description='Name' value='Track Power' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-5.60000'/>
+		</SYMBOL>
+		<SYMBOL id='2' pos='232.00000,206.00000' part='0' rotate='1' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='1' description='Ref' value='U?' show='0' pos='1.00000,-8.00000'/>
+			<FIELD type='1' description='Name' value='Track Power' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-5.60000'/>
+		</SYMBOL>
+		<NOTE_TEXT a='248.00000,198.00000' b='270.00000,204.00000' direction='3' style='17' fill='2' font='16' color='FF0000' border_style='1'>TRACK FEEDS</NOTE_TEXT>
+		<TEXT pos='238.00000,196.00000' direction='3' font='4' color='000000'>WH</TEXT>
+		<TEXT pos='226.00000,212.00000' direction='3' font='4' color='000000'>WH</TEXT>
+		<TEXT pos='226.00000,196.00000' direction='3' font='4' color='000000'>RD</TEXT>
+		<TEXT pos='238.00000,212.00000' direction='3' font='4' color='000000'>RD</TEXT>
+		<SYMBOL id='2' pos='106.00000,52.00000' part='0' rotate='0' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='1' description='Ref' value='U?' show='0' pos='1.00000,-8.00000'/>
+			<FIELD type='1' description='Name' value='Track Power' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-5.60000'/>
+		</SYMBOL>
+		<SYMBOL id='2' pos='84.00000,176.00000' part='0' rotate='0' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='1' description='Ref' value='U?' show='0' pos='1.00000,-8.00000'/>
+			<FIELD type='1' description='Name' value='Track Power' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-5.60000'/>
+		</SYMBOL>
+		<SYMBOL id='2' pos='128.00000,274.00000' part='0' rotate='1' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='1' description='Ref' value='U?' show='0' pos='1.00000,-8.00000'/>
+			<FIELD type='1' description='Name' value='Track Power' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-5.60000'/>
+		</SYMBOL>
+		<SYMBOL id='2' pos='64.00000,120.00000' part='0' rotate='1' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='1' description='Ref' value='U?' show='0' pos='1.00000,-8.00000'/>
+			<FIELD type='1' description='Name' value='Track Power' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-5.60000'/>
+		</SYMBOL>
+		<SYMBOL id='2' pos='102.00000,152.00000' part='0' rotate='0' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='1' description='Ref' value='U?' show='0' pos='1.00000,-8.00000'/>
+			<FIELD type='1' description='Name' value='Track Power' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-5.60000'/>
+		</SYMBOL>
+		<SYMBOL id='2' pos='240.00000,246.00000' part='0' rotate='1' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='1' description='Ref' value='U?' show='0' pos='1.00000,-8.00000'/>
+			<FIELD type='1' description='Name' value='Track Power' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-5.60000'/>
+		</SYMBOL>
+		<TEXT pos='58.00000,258.00000' direction='3' font='17' color='000000'>---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------</TEXT>
+		<TEXT pos='130.00000,254.00000' direction='3' font='11' color='000000'>C/L of peninsula</TEXT>
+		<BUS style='6' a='180.00000,46.00000' b='182.00000,46.00000'/>
+		<BUS a='178.00000,46.00000' b='178.00000,60.00000'/>
+		<TEXT pos='180.48000,61.50000' direction='3' font='6' color='000000'>TB22 </TEXT>
+		<TEXT pos='208.48000,121.50000' direction='3' font='6' color='000000'>TB30 </TEXT>
+		<TEXT pos='222.00000,128.00000' direction='3' font='19' color='000000'>16-12mm XVR</TEXT>
+		<BUSNAME pos='286.00000,116.00000' direction='3' font='18' color='208000'>12SR</BUSNAME>
+		<WIRE style='13' a='224.00000,96.00000' b='216.00000,96.00000'/>
+		<WIRE style='13' a='216.00000,96.00000' b='216.00000,116.00000'/>
+		<WIRE style='14' a='242.00000,96.00000' b='252.00000,96.00000'/>
+		<WIRE style='14' a='252.00000,96.00000' b='252.00000,114.00000'/>
+		<WIRE style='14' a='252.00000,114.00000' b='280.00000,114.00000'/>
+		<SYMBOL id='2' pos='314.00000,132.00000' part='0' rotate='6' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='1' description='Ref' value='U?' show='0' pos='-10.00000,2.00000'/>
+			<FIELD type='1' description='Name' value='Track Power' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='-10.00000,4.40000'/>
+		</SYMBOL>
+		<TEXT pos='256.00000,24.00000' direction='3' font='20' color='000000'>South Wall</TEXT>
+		<TEXT pos='32.00000,108.00000' direction='0' font='21' color='000000'>East Wall</TEXT>
+		<JUNCTION pos='216.00000,116.00000'/>
+		<JUNCTION pos='76.00000,146.00000'/>
+		<TEXT pos='64.00000,150.00000' direction='3' font='6' color='000000'>TB31</TEXT>
+		<BUS style='8' a='410.00000,12.00000' b='382.00000,56.00000'/>
+		<BUS style='8' a='20.00000,12.00000' b='56.00000,56.00000'/>
+		<TEXT pos='70.00000,108.00000' direction='3' font='22' color='000000'>Centre Peninsula South Side</TEXT>
+		<TEXT pos='86.00000,244.00000' direction='3' font='22' color='000000'>Outer Peninsula South Side</TEXT>
+		<TEXT pos='172.00000,280.00000' direction='3' font='22' color='000000'>Outer Peninsula North Side</TEXT>
+		<TEXT pos='116.00000,158.00000' direction='3' font='22' color='000000'>Centre Peninsula North Side</TEXT>
+		<BUS style='8' a='56.00000,234.00000' b='56.00000,284.00000'/>
+		<BUS style='8' a='56.00000,100.00000' b='56.00000,174.00000'/>
+		<RECTANGLE a='160.00000,62.00000' b='174.00000,68.00000' style='15' fill='0'/>
+		<TEXT pos='161.56000,67.22000' direction='3' font='8' color='000000'>EB-T2</TEXT>
+		<BUS style='20' a='174.00000,64.00000' b='178.00000,64.00000'/>
+		<BUS style='20' a='178.00000,64.00000' b='178.00000,60.00000'/>
+		<JUNCTION pos='177.70000,61.42960'/>
+	</TinyCAD>
+</TinyCADSheets>
