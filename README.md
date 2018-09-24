@@ -1,1 +1,1 @@
-# Schematic wiring diagrams for the HO layout Lower Deck
+# Schematic wiring diagrams for the HO layout
