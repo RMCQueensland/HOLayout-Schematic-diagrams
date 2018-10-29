@@ -1,0 +1,1078 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--This file was written by TinyCAD Version 2.90.00 Build #686 Production Release
+If you wish to view this file go to http://tinycad.sourceforge.net to
+download the executable.-->
+<TinyCADSheets>
+	<TinyCAD>
+		<NAME>Sheet 1</NAME>
+		<DETAILS>
+			<Size width='2100' height='1485'/>
+			<GUIDES horiz='7' vert='5'/>
+			<TITLE>Upper Deck 16mm Track Buss Distribution</TITLE>
+			<AUTHOR>K MAIZEY</AUTHOR>
+			<REVISION>0.0</REVISION>
+			<DOCNUMBER>12</DOCNUMBER>
+			<ORGANISATION>RMCQ</ORGANISATION>
+			<SHEETS>1 of 1</SHEETS>
+			<SHOWS>3</SHOWS>
+			<DATE>12 Mar 2018</DATE>
+			<GRID spacing='100.00000' snap='1'/>
+		</DETAILS>
+		<FONT id='1'>
+			<HEIGHT>-10</HEIGHT>
+			<WIDTH>0</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='3'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='4'>
+			<HEIGHT>-19</HEIGHT>
+			<WIDTH>8</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='5'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='6'>
+			<HEIGHT>-19</HEIGHT>
+			<WIDTH>8</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='7'>
+			<HEIGHT>-19</HEIGHT>
+			<WIDTH>8</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='8'>
+			<HEIGHT>-19</HEIGHT>
+			<WIDTH>8</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='9'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='10'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='11'>
+			<HEIGHT>-19</HEIGHT>
+			<WIDTH>8</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='13'>
+			<HEIGHT>-19</HEIGHT>
+			<WIDTH>8</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='14'>
+			<HEIGHT>-19</HEIGHT>
+			<WIDTH>8</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='15'>
+			<HEIGHT>-19</HEIGHT>
+			<WIDTH>8</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='16'>
+			<HEIGHT>-19</HEIGHT>
+			<WIDTH>8</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<STYLE id='5'>
+			<STYLE>0</STYLE>
+			<COLOR>000000</COLOR>
+			<THICKNESS>1</THICKNESS>
+		</STYLE>
+		<STYLE id='6'>
+			<STYLE>0</STYLE>
+			<COLOR>0000FF</COLOR>
+			<THICKNESS>1</THICKNESS>
+		</STYLE>
+		<STYLE id='7'>
+			<STYLE>0</STYLE>
+			<COLOR>FF0000</COLOR>
+			<THICKNESS>1</THICKNESS>
+		</STYLE>
+		<STYLE id='8'>
+			<STYLE>2</STYLE>
+			<COLOR>000000</COLOR>
+			<THICKNESS>2</THICKNESS>
+		</STYLE>
+		<FILL id='0'>
+			<INDEX>-1</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='1'>
+			<INDEX>0</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='2'>
+			<INDEX>0</INDEX>
+			<COLOR>0000FF</COLOR>
+		</FILL>
+		<FILL id='3'>
+			<INDEX>0</INDEX>
+			<COLOR>0000FF</COLOR>
+		</FILL>
+		<FILL id='4'>
+			<INDEX>0</INDEX>
+			<COLOR>0080FF</COLOR>
+		</FILL>
+		<FILL id='5'>
+			<INDEX>0</INDEX>
+			<COLOR>00FFFF</COLOR>
+		</FILL>
+		<FILL id='6'>
+			<INDEX>0</INDEX>
+			<COLOR>00FF00</COLOR>
+		</FILL>
+		<FILL id='7'>
+			<INDEX>0</INDEX>
+			<COLOR>FFFF00</COLOR>
+		</FILL>
+		<FILL id='8'>
+			<INDEX>0</INDEX>
+			<COLOR>C0C0C0</COLOR>
+		</FILL>
+		<FILL id='9'>
+			<INDEX>0</INDEX>
+			<COLOR>FFFFFF</COLOR>
+		</FILL>
+		<FILL id='10'>
+			<INDEX>0</INDEX>
+			<COLOR>EE82EE</COLOR>
+		</FILL>
+		<FILL id='11'>
+			<INDEX>0</INDEX>
+			<COLOR>C1B6FF</COLOR>
+		</FILL>
+		<FILL id='12'>
+			<INDEX>0</INDEX>
+			<COLOR>EEEEAF</COLOR>
+		</FILL>
+		<FILL id='13'>
+			<INDEX>0</INDEX>
+			<COLOR>AFFFFF</COLOR>
+		</FILL>
+		<FILL id='14'>
+			<INDEX>0</INDEX>
+			<COLOR>AFFFFF</COLOR>
+		</FILL>
+		<FILL id='15'>
+			<INDEX>0</INDEX>
+			<COLOR>AFFFFF</COLOR>
+		</FILL>
+		<FILL id='16'>
+			<INDEX>0</INDEX>
+			<COLOR>AFFFFF</COLOR>
+		</FILL>
+		<FILL id='17'>
+			<INDEX>0</INDEX>
+			<COLOR>AFFFFF</COLOR>
+		</FILL>
+		<SYMBOLDEF id='1'>
+			<NAME type='1'>Terminal</NAME>
+			<REF type='0'>TB</REF>
+			<DESCRIPTION>4 way</DESCRIPTION>
+			<PPP>1</PPP>
+			<FIELD>
+				<NAME>$$SPICE_PROLOG_PRIORITY</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000002</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>$$SPICE_EPILOG_PRIORITY</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000002</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>Package</NAME>
+				<DEFAULT>package name for PCB layout</DEFAULT>
+				<FT>000001</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<REF_POINT power='0' part='0' pos='88.00000,54.00000'/>
+			<TinyCAD>
+				<ELLIPSE a='78.95816,40.91033' b='80.95816,38.91033' style='5' fill='1'/>
+				<ELLIPSE a='78.95816,44.91033' b='80.95816,42.91033' style='5' fill='1'/>
+				<ELLIPSE a='78.95816,48.91033' b='80.95816,46.91033' style='5' fill='1'/>
+				<ELLIPSE a='78.95816,52.91033' b='80.95816,50.91033' style='5' fill='1'/>
+				<RECTANGLE a='78.00000,38.00000' b='82.00000,54.00000' style='5' fill='0'/>
+				<PIN pos='72.00000,40.00000' which='0' elec='4' direction='3' part='0' number='' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='72.00000,52.00000' which='0' elec='4' direction='3' part='0' number='' show='3' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='72.00000,48.00000' which='0' elec='4' direction='3' part='0' number='' show='3' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='72.00000,44.00000' which='0' elec='4' direction='3' part='0' number='' show='3' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='88.00000,40.00000' which='0' elec='4' direction='2' part='0' number='' show='3' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='88.00000,44.00000' which='0' elec='4' direction='2' part='0' number='' show='3' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='88.00000,48.00000' which='0' elec='4' direction='2' part='0' number='' show='3' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='88.00000,52.00000' which='0' elec='4' direction='2' part='0' number='' show='3' length='30' number_pos='0' centre_name='0'></PIN>
+			</TinyCAD>
+		</SYMBOLDEF>
+		<SYMBOLDEF id='2'>
+			<NAME type='1'>Termination Block 2 way</NAME>
+			<REF type='1'>TB</REF>
+			<DESCRIPTION></DESCRIPTION>
+			<PPP>1</PPP>
+			<FIELD>
+				<NAME>$$SPICE_PROLOG_PRIORITY</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000002</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>$$SPICE_EPILOG_PRIORITY</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000002</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>Package</NAME>
+				<DEFAULT>package name for PCB layout</DEFAULT>
+				<FT>000001</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<REF_POINT power='0' part='0' pos='88.00000,46.00000'/>
+			<TinyCAD>
+				<ELLIPSE a='78.95816,40.91033' b='80.95816,38.91033' style='5' fill='1'/>
+				<ELLIPSE a='78.95816,44.91033' b='80.95816,42.91033' style='5' fill='1'/>
+				<RECTANGLE a='78.00000,38.00000' b='82.00000,46.00000' style='5' fill='0'/>
+				<PIN pos='88.00000,40.00000' which='0' elec='4' direction='2' part='0' number='1' show='1' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='88.00000,44.00000' which='0' elec='4' direction='2' part='0' number='2' show='1' length='30' number_pos='0' centre_name='0'></PIN>
+			</TinyCAD>
+		</SYMBOLDEF>
+		<SYMBOLDEF id='3'>
+			<NAME type='0'>Wire Colours</NAME>
+			<REF type='0'></REF>
+			<DESCRIPTION></DESCRIPTION>
+			<PPP>1</PPP>
+			<FIELD>
+				<NAME>$$SPICE_PROLOG_PRIORITY</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000002</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>$$SPICE_EPILOG_PRIORITY</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000002</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>Package</NAME>
+				<DEFAULT>package name for PCB layout</DEFAULT>
+				<FT>000001</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<REF_POINT power='0' part='0' pos='132.00000,110.00000'/>
+			<TinyCAD>
+				<RECTANGLE a='122.00000,62.00000' b='128.00000,64.00000' style='6' fill='1'/>
+				<RECTANGLE a='122.00000,66.00000' b='128.00000,68.00000' style='6' fill='3'/>
+				<RECTANGLE a='122.00000,70.00000' b='128.00000,72.00000' style='6' fill='2'/>
+				<RECTANGLE a='122.00000,74.00000' b='128.00000,76.00000' style='6' fill='4'/>
+				<RECTANGLE a='122.00000,78.00000' b='128.00000,80.00000' style='6' fill='5'/>
+				<RECTANGLE a='122.00000,82.00000' b='128.00000,84.00000' style='6' fill='6'/>
+				<RECTANGLE a='122.00000,86.00000' b='128.00000,88.00000' style='6' fill='7'/>
+				<RECTANGLE a='122.00000,90.00000' b='128.00000,92.00000' style='6' fill='10'/>
+				<TEXT pos='108.10059,64.60769' direction='3' font='3' color='000000'>Black  BK</TEXT>
+				<TEXT pos='107.98225,68.74970' direction='3' font='3' color='000000'>Brown BN</TEXT>
+				<TEXT pos='109.40237,72.53669' direction='3' font='3' color='000000'>Red  RD</TEXT>
+				<TEXT pos='105.97041,76.44201' direction='3' font='3' color='000000'>Orange  OG</TEXT>
+				<TEXT pos='107.46336,80.42927' direction='3' font='3' color='000000'>Yellow  YE</TEXT>
+				<TEXT pos='107.15385,84.37101' direction='3' font='3' color='000000'>Green  GN</TEXT>
+				<TEXT pos='109.16568,88.63136' direction='3' font='3' color='000000'>Blue  BU</TEXT>
+				<TEXT pos='107.86391,92.65503' direction='3' font='3' color='000000'>Violet  VT</TEXT>
+				<TEXT pos='108.57396,96.44201' direction='3' font='3' color='000000'>Gray  GY</TEXT>
+				<TEXT pos='107.39053,100.58402' direction='3' font='3' color='000000'>White  WH</TEXT>
+				<TEXT pos='109.52071,104.60769' direction='3' font='3' color='000000'>Pink  PK</TEXT>
+				<TEXT pos='102.65680,108.63136' direction='3' font='3' color='000000'>Turquoise  TQ</TEXT>
+				<RECTANGLE a='122.00000,94.00000' b='128.00000,96.00000' style='6' fill='8'/>
+				<RECTANGLE a='122.00000,98.00000' b='128.00000,100.00000' style='6' fill='9'/>
+				<RECTANGLE a='122.00000,102.00000' b='128.00000,104.00000' style='6' fill='11'/>
+				<RECTANGLE a='122.00000,106.00000' b='128.00000,108.00000' style='6' fill='12'/>
+				<TEXT pos='110.00000,60.00000' direction='3' font='3' color='000000'>WIRE COLOURS</TEXT>
+			</TinyCAD>
+		</SYMBOLDEF>
+		<SYMBOLDEF id='4'>
+			<NAME type='1'></NAME>
+			<REF type='0'>TB</REF>
+			<DESCRIPTION>Term 2 way</DESCRIPTION>
+			<PPP>1</PPP>
+			<FIELD>
+				<NAME>$$SPICE_PROLOG_PRIORITY</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000002</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>$$SPICE_EPILOG_PRIORITY</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000002</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>Package</NAME>
+				<DEFAULT>package name for PCB layout</DEFAULT>
+				<FT>000001</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<REF_POINT power='0' part='0' pos='84.00000,42.00000'/>
+			<TinyCAD>
+				<ELLIPSE a='82.52446,32.57115' b='82.73192,32.78749' style='5' fill='0'/>
+				<ELLIPSE a='69.07204,33.04467' b='70.98748,34.93698' style='5' fill='1'/>
+				<ELLIPSE a='69.07205,37.04467' b='70.98749,38.93699' style='5' fill='1'/>
+				<RECTANGLE a='68.02421,31.98331' b='72.03532,40.07729' style='5' fill='0'/>
+				<PIN pos='62.00000,34.00000' which='0' elec='0' direction='3' part='0' number='1' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='62.00000,38.00000' which='0' elec='0' direction='3' part='0' number='2' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='78.00000,34.00000' which='0' elec='0' direction='2' part='0' number='3' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='78.00000,38.00000' which='0' elec='0' direction='2' part='0' number='4' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+			</TinyCAD>
+		</SYMBOLDEF>
+		<SYMBOLDEF id='5'>
+			<NAME type='1'></NAME>
+			<REF type='0'>TB</REF>
+			<DESCRIPTION>Term 2 way</DESCRIPTION>
+			<PPP>1</PPP>
+			<FIELD>
+				<NAME>$$SPICE_PROLOG_PRIORITY</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000002</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>$$SPICE_EPILOG_PRIORITY</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000002</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>Package</NAME>
+				<DEFAULT>package name for PCB layout</DEFAULT>
+				<FT>000001</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<REF_POINT power='0' part='0' pos='84.00000,42.00000'/>
+			<TinyCAD>
+				<ELLIPSE a='82.52446,32.57115' b='82.73192,32.78749' style='5' fill='0'/>
+				<ELLIPSE a='69.07204,33.04467' b='70.98748,34.93698' style='5' fill='1'/>
+				<ELLIPSE a='69.07205,37.04467' b='70.98749,38.93699' style='5' fill='1'/>
+				<RECTANGLE a='68.02421,31.98331' b='72.03532,40.07729' style='5' fill='0'/>
+				<PIN pos='62.00000,34.00000' which='0' elec='0' direction='3' part='0' number='1' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='62.00000,38.00000' which='0' elec='0' direction='3' part='0' number='2' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='78.00000,34.00000' which='0' elec='0' direction='2' part='0' number='3' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='78.00000,38.00000' which='0' elec='0' direction='2' part='0' number='4' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+			</TinyCAD>
+		</SYMBOLDEF>
+		<SYMBOLDEF id='6'>
+			<NAME type='1'></NAME>
+			<REF type='0'>TB</REF>
+			<DESCRIPTION>Term 2 way</DESCRIPTION>
+			<PPP>1</PPP>
+			<FIELD>
+				<NAME>$$SPICE_PROLOG_PRIORITY</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000002</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>$$SPICE_EPILOG_PRIORITY</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000002</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>Package</NAME>
+				<DEFAULT>package name for PCB layout</DEFAULT>
+				<FT>000001</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<REF_POINT power='0' part='0' pos='84.00000,42.00000'/>
+			<TinyCAD>
+				<ELLIPSE a='82.52446,32.57115' b='82.73192,32.78749' style='5' fill='0'/>
+				<ELLIPSE a='69.07204,33.04467' b='70.98748,34.93698' style='5' fill='1'/>
+				<ELLIPSE a='69.07205,37.04467' b='70.98749,38.93699' style='5' fill='1'/>
+				<RECTANGLE a='68.02421,31.98331' b='72.03532,40.07729' style='5' fill='0'/>
+				<PIN pos='62.00000,34.00000' which='0' elec='0' direction='3' part='0' number='1' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='62.00000,38.00000' which='0' elec='0' direction='3' part='0' number='2' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='78.00000,34.00000' which='0' elec='0' direction='2' part='0' number='3' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='78.00000,38.00000' which='0' elec='0' direction='2' part='0' number='4' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+			</TinyCAD>
+		</SYMBOLDEF>
+		<SYMBOLDEF id='7'>
+			<NAME type='1'>Terminal</NAME>
+			<REF type='0'>TB</REF>
+			<DESCRIPTION>6 way</DESCRIPTION>
+			<PPP>1</PPP>
+			<FIELD>
+				<NAME>$$SPICE_PROLOG_PRIORITY</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000002</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>$$SPICE_EPILOG_PRIORITY</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000002</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>Package</NAME>
+				<DEFAULT>package name for PCB layout</DEFAULT>
+				<FT>000001</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>Other</NAME>
+				<DEFAULT>1</DEFAULT>
+				<FT>000000</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>Other</NAME>
+				<DEFAULT>2</DEFAULT>
+				<FT>000000</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>Other</NAME>
+				<DEFAULT>3</DEFAULT>
+				<FT>000000</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>Other</NAME>
+				<DEFAULT>4</DEFAULT>
+				<FT>000000</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>Other</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000000</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>Other</NAME>
+				<DEFAULT>6</DEFAULT>
+				<FT>000000</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<REF_POINT power='0' part='0' pos='120.00000,70.00000'/>
+			<TinyCAD>
+				<ELLIPSE a='111.13118,48.98351' b='113.13118,46.98351' style='5' fill='1'/>
+				<ELLIPSE a='111.13118,52.98351' b='113.13118,50.98351' style='5' fill='1'/>
+				<ELLIPSE a='111.13118,56.98351' b='113.13118,54.98351' style='5' fill='1'/>
+				<ELLIPSE a='111.13118,60.98351' b='113.13118,58.98351' style='5' fill='1'/>
+				<ELLIPSE a='111.13118,64.98351' b='113.13118,62.98351' style='5' fill='1'/>
+				<ELLIPSE a='111.13118,68.98351' b='113.13118,66.98351' style='5' fill='1'/>
+				<RECTANGLE a='110.00000,46.00000' b='114.00000,70.00000' style='5' fill='0'/>
+				<PIN pos='104.00000,48.00000' which='0' elec='0' direction='3' part='0' number='1' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='104.00000,52.00000' which='0' elec='0' direction='3' part='0' number='2' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='104.00000,56.00000' which='0' elec='0' direction='3' part='0' number='3' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='104.00000,60.00000' which='0' elec='0' direction='3' part='0' number='4' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='104.00000,64.00000' which='0' elec='0' direction='3' part='0' number='5' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='104.00000,68.00000' which='0' elec='0' direction='3' part='0' number='6' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='120.00000,48.00000' which='0' elec='0' direction='2' part='0' number='9' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='120.00000,52.00000' which='0' elec='0' direction='2' part='0' number='10' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='120.00000,56.00000' which='0' elec='0' direction='2' part='0' number='11' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='120.00000,60.00000' which='0' elec='0' direction='2' part='0' number='12' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='120.00000,64.00000' which='0' elec='0' direction='2' part='0' number='13' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='120.00000,68.00000' which='0' elec='0' direction='2' part='0' number='14' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+			</TinyCAD>
+		</SYMBOLDEF>
+		<SYMBOLDEF id='8'>
+			<NAME type='1'></NAME>
+			<REF type='0'>TB</REF>
+			<DESCRIPTION>Term 2 way</DESCRIPTION>
+			<PPP>1</PPP>
+			<FIELD>
+				<NAME>$$SPICE_PROLOG_PRIORITY</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000002</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>$$SPICE_EPILOG_PRIORITY</NAME>
+				<DEFAULT>5</DEFAULT>
+				<FT>000002</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<FIELD>
+				<NAME>Package</NAME>
+				<DEFAULT>package name for PCB layout</DEFAULT>
+				<FT>000001</FT>
+				<VALUE></VALUE>
+				<POS>0.00000,0.00000</POS>
+			</FIELD>
+			<REF_POINT power='0' part='0' pos='84.00000,42.00000'/>
+			<TinyCAD>
+				<ELLIPSE a='82.52446,32.57115' b='82.73192,32.78749' style='5' fill='0'/>
+				<ELLIPSE a='69.07204,33.04467' b='70.98748,34.93698' style='5' fill='1'/>
+				<ELLIPSE a='69.07205,37.04467' b='70.98749,38.93699' style='5' fill='1'/>
+				<RECTANGLE a='68.02421,31.98331' b='72.03532,40.07729' style='5' fill='0'/>
+				<PIN pos='62.00000,34.00000' which='0' elec='0' direction='3' part='0' number='1' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='62.00000,38.00000' which='0' elec='0' direction='3' part='0' number='2' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='78.00000,34.00000' which='0' elec='0' direction='2' part='0' number='3' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+				<PIN pos='78.00000,38.00000' which='0' elec='0' direction='2' part='0' number='4' show='0' length='30' number_pos='0' centre_name='0'></PIN>
+			</TinyCAD>
+		</SYMBOLDEF>
+		<OPTIONS>
+			<GRID>1</GRID>
+			<UNITS>0</UNITS>
+			<COLOR_WIRE>000000</COLOR_WIRE>
+			<COLOR_BUS>0000FF</COLOR_BUS>
+			<COLOR_JUNCTION>000000</COLOR_JUNCTION>
+			<COLOR_NOCONNECT>000000</COLOR_NOCONNECT>
+			<COLOR_LABEL>208000</COLOR_LABEL>
+			<COLOR_POWER>000000</COLOR_POWER>
+			<COLOR_PIN>4040C0</COLOR_PIN>
+			<COLOR_HIDDEN_PIN>208020</COLOR_HIDDEN_PIN>
+			<COLOR_BACKGROUND>FFFFFF</COLOR_BACKGROUND>
+			<COLOR_NOTETEXT_FILL>AFFFFF</COLOR_NOTETEXT_FILL>
+			<COLOR_NOTETEXT_LINE>FF0000</COLOR_NOTETEXT_LINE>
+			<COLOR_NOTETEXT_TEXT>FF0000</COLOR_NOTETEXT_TEXT>
+		</OPTIONS>
+		<SYMBOL id='3' pos='76.00000,268.00000' part='0' rotate='0' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='0' description='Ref' value='' show='0' pos='1.00000,-49.60000'/>
+			<FIELD type='0' description='Name' value='Wire Colours' show='0' pos='1.00000,-52.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-47.20000'/>
+		</SYMBOL>
+		<BUS a='270.21400,90.19000' b='318.21400,90.19000'/>
+		<BUSSLASH pos='270.21400,100.19000' direction='1'/>
+		<SYMBOL id='4' pos='272.10503,104.17207' part='0' rotate='0' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='0' description='Ref' value='TB23' show='1' pos='-15.02722,-11.04852'/>
+			<FIELD type='1' description='Name' value='' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-7.60000'/>
+			<FIELD type='3' description='Other' value='1' show='0' pos='-17.63314,-8.36923'/>
+			<FIELD type='3' description='Other' value='2' show='0' pos='-17.27811,-4.31243'/>
+		</SYMBOL>
+		<WIRE a='292.01400,79.99000' b='292.21400,79.99000'/>
+		<JUNCTION pos='266.21400,96.19000'/>
+		<SYMBOL id='5' pos='344.34928,104.01759' part='0' rotate='0' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='0' description='Ref' value='TB24' show='1' pos='-15.62722,-10.24852'/>
+			<FIELD type='1' description='Name' value='' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-7.60000'/>
+			<FIELD type='3' description='Other' value='1' show='1' pos='-17.63314,-8.36923'/>
+			<FIELD type='3' description='Other' value='2' show='1' pos='-17.27811,-4.31243'/>
+		</SYMBOL>
+		<WIRE a='266.21400,100.19000' b='266.21400,118.19000'/>
+		<WIRE a='343.92570,99.62587' b='344.12570,99.62587'/>
+		<BUS a='318.21400,90.19000' b='318.21400,96.19000'/>
+		<BUSSLASH pos='248.21400,96.19000' direction='1'/>
+		<BUSSLASH pos='248.21400,100.19000' direction='1'/>
+		<BUSSLASH pos='322.21400,96.19000' direction='1'/>
+		<BUSSLASH pos='322.21400,100.19000' direction='1'/>
+		<BUSSLASH pos='270.21400,92.19000' direction='0'/>
+		<BUSSLASH pos='270.21400,96.19000' direction='0'/>
+		<BUS a='270.21400,90.19000' b='270.21400,96.19000'/>
+		<JUNCTION pos='266.21400,100.19000'/>
+		<WIRE a='270.21400,100.19000' b='270.21400,114.19000'/>
+		<NOTE_TEXT a='327.00453,16.95568' b='207.00453,8.95568' direction='3' style='7' fill='15' font='8' color='FF0000' border_style='1'>Powers all 16mm tracks in West South wall, helix and helix reverse loops A and B</NOTE_TEXT>
+		<BUS a='262.21400,22.19000' b='306.00000,22.00000'/>
+		<SYMBOL id='6' pos='264.01400,37.99000' part='0' rotate='0' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='0' description='Ref' value='TB25' show='1' pos='-15.62722,-10.24852'/>
+			<FIELD type='1' description='Name' value='' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-7.60000'/>
+			<FIELD type='3' description='Other' value='1' show='0' pos='-29.63314,3.63077'/>
+			<FIELD type='3' description='Other' value='2' show='0' pos='-17.27811,-4.31243'/>
+		</SYMBOL>
+		<WIRE a='264.01400,17.99000' b='264.21400,17.99000'/>
+		<JUNCTION pos='258.21400,30.19000'/>
+		<RECTANGLE a='348.09092,30.19000' b='381.80023,48.34013' style='5' fill='0'/>
+		<TEXT pos='367.03575,37.82860' direction='3' font='3' color='000000'>FROGS</TEXT>
+		<TEXT pos='351.39989,37.82860' direction='3' font='3' color='000000'>DCC</TEXT>
+		<NOTE_TEXT a='356.94417,30.83288' b='373.20207,34.76779' direction='3' style='7' fill='13' font='9' color='FF0000' border_style='1'>AR-REV B</NOTE_TEXT>
+		<SYMBOL id='2' pos='358.03193,46.00793' part='0' rotate='4' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='1' description='Ref' value='TB' show='0' pos='1.00000,-6.00000'/>
+			<FIELD type='1' description='Name' value='Termination Block 2 way' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-3.60000'/>
+		</SYMBOL>
+		<SYMBOL id='2' pos='378.21400,46.00793' part='0' rotate='0' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='1' description='Ref' value='TB' show='0' pos='1.00000,-6.00000'/>
+			<FIELD type='1' description='Name' value='Termination Block 2 way' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-3.60000'/>
+		</SYMBOL>
+		<BUSSLASH pos='242.21400,30.19000' direction='1'/>
+		<BUSSLASH pos='242.21400,34.19000' direction='1'/>
+		<NOTE_TEXT a='210.00000,74.00000' b='326.00000,86.00000' direction='3' style='7' fill='13' font='8' color='FF0000' border_style='1'>Powers all 16mm tracks in East Sth wall, East wall, Sth Centre Peninsuals and crossover</NOTE_TEXT>
+		<BUSSLASH pos='262.21400,26.19000' direction='0'/>
+		<BUSSLASH pos='262.21400,30.19000' direction='0'/>
+		<BUS a='262.21400,22.19000' b='262.21400,30.19000'/>
+		<JUNCTION pos='258.21400,34.19000'/>
+		<BUS a='206.00000,28.00000' b='206.00000,22.00000'/>
+		<BUS a='206.00000,22.00000' b='238.00000,22.00000'/>
+		<BUS a='238.00000,22.00000' b='238.00000,30.00000'/>
+		<TEXT pos='208.00000,26.00000' direction='3' font='10' color='000000'>West south wall &amp; helix</TEXT>
+		<SYMBOL id='7' pos='336.00000,66.00000' part='0' rotate='0' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='0' description='Ref' value='TB26' show='1' pos='-9.00000,-24.00000'/>
+			<FIELD type='1' description='Name' value='Terminal' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-5.20000'/>
+			<FIELD type='0' description='Other' value='1' show='0' pos='1.00000,-19.60000'/>
+			<FIELD type='0' description='Other' value='2' show='0' pos='1.00000,-17.20000'/>
+			<FIELD type='0' description='Other' value='3' show='0' pos='1.00000,-14.80000'/>
+			<FIELD type='0' description='Other' value='4' show='0' pos='1.00000,-12.40000'/>
+			<FIELD type='0' description='Other' value='5' show='0' pos='1.00000,-10.00000'/>
+			<FIELD type='0' description='Other' value='6' show='0' pos='1.00000,-7.60000'/>
+		</SYMBOL>
+		<BUSSLASH pos='262.00000,34.00000' direction='1'/>
+		<WIRE a='338.00000,44.00000' b='348.00000,44.00000'/>
+		<WIRE a='336.00000,52.00000' b='386.00000,52.00000'/>
+		<WIRE a='386.00000,52.00000' b='386.00000,44.00000'/>
+		<WIRE a='386.00000,44.00000' b='378.21400,44.00000'/>
+		<WIRE a='336.00000,56.00000' b='390.00000,56.00000'/>
+		<WIRE a='390.00000,56.00000' b='390.00000,40.00000'/>
+		<WIRE a='390.00000,40.00000' b='378.00000,40.00000'/>
+		<RECTANGLE a='350.09092,66.19000' b='383.80023,84.34013' style='5' fill='0'/>
+		<TEXT pos='369.49092,84.19000' direction='3' font='3' color='000000'>FROGS</TEXT>
+		<TEXT pos='355.49092,84.19000' direction='3' font='3' color='000000'>DCC</TEXT>
+		<NOTE_TEXT a='358.12761,67.63852' b='371.92761,71.57343' direction='3' style='7' fill='13' font='9' color='FF0000' border_style='1'>AR-REV A</NOTE_TEXT>
+		<SYMBOL id='2' pos='360.03193,80.00793' part='0' rotate='4' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='1' description='Ref' value='TB' show='0' pos='1.00000,-6.00000'/>
+			<FIELD type='1' description='Name' value='Termination Block 2 way' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-3.60000'/>
+		</SYMBOL>
+		<SYMBOL id='2' pos='380.21400,80.00793' part='0' rotate='0' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='1' description='Ref' value='TB' show='0' pos='1.00000,-6.00000'/>
+			<FIELD type='1' description='Name' value='Termination Block 2 way' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-3.60000'/>
+		</SYMBOL>
+		<WIRE a='340.00000,74.00000' b='350.00000,74.00000'/>
+		<WIRE a='338.00000,78.00000' b='350.00000,78.00000'/>
+		<WIRE a='336.00000,60.00000' b='390.00000,60.00000'/>
+		<WIRE a='390.00000,60.00000' b='390.00000,78.00000'/>
+		<WIRE a='390.00000,78.00000' b='380.21400,78.00000'/>
+		<WIRE a='336.00000,64.00000' b='386.00000,64.00000'/>
+		<WIRE a='386.00000,64.00000' b='386.00000,74.00000'/>
+		<WIRE a='386.00000,74.00000' b='380.21400,74.00000'/>
+		<WIRE a='348.03193,40.00793' b='338.00000,40.00000'/>
+		<WIRE a='336.00000,48.00000' b='338.00000,50.00000'/>
+		<WIRE a='336.00000,44.00000' b='338.00000,40.00000'/>
+		<WIRE a='336.00000,48.00000' b='338.00000,44.00000'/>
+		<WIRE a='336.00000,44.00000' b='340.00000,48.00000'/>
+		<WIRE a='338.00000,50.00000' b='338.00000,78.00000'/>
+		<WIRE a='340.00000,48.00000' b='340.00000,74.00000'/>
+		<BUS a='266.00000,46.00000' b='296.00000,46.00000'/>
+		<BUS a='296.00000,46.00000' b='296.00000,52.00000'/>
+		<BUSSLASH pos='300.00000,52.00000' direction='1'/>
+		<BUSSLASH pos='300.00000,56.00000' direction='1'/>
+		<WIRE a='320.00000,52.00000' b='300.00000,52.00000'/>
+		<WIRE a='320.00000,56.00000' b='300.00000,56.00000'/>
+		<TEXT pos='266.15385,48.76923' direction='3' font='3' color='000000'>Helix loop B (HRB)</TEXT>
+		<TEXT pos='268.00000,26.00000' direction='3' font='10' color='000000'>West helix to bridge</TEXT>
+		<BUS a='316.00000,22.00000' b='348.00000,22.00000'/>
+		<WIRE a='318.00000,48.00000' b='310.00000,42.00000'/>
+		<TEXT pos='318.30769,26.15385' direction='3' font='10' color='000000'>East helix fuel area</TEXT>
+		<BUS a='266.00000,54.00000' b='296.00000,54.00000'/>
+		<BUSSLASH pos='300.00000,60.00000' direction='1'/>
+		<BUSSLASH pos='300.00000,64.00000' direction='1'/>
+		<BUS a='296.00000,54.00000' b='296.00000,60.00000'/>
+		<WIRE a='320.00000,60.00000' b='300.00000,60.00000'/>
+		<WIRE a='320.00000,64.00000' b='300.00000,64.00000'/>
+		<TEXT pos='267.08530,57.26673' direction='3' font='3' color='000000'>Helix Loop A (HRA)</TEXT>
+		<WIRE a='318.00000,44.00000' b='310.00000,38.00000'/>
+		<BUSSLASH pos='206.00000,24.00000' direction='0'/>
+		<WIRE a='206.00000,28.00000' b='202.00000,32.00000'/>
+		<WIRE a='262.00000,36.00000' b='304.00000,36.00000'/>
+		<WIRE a='304.00000,36.00000' b='304.00000,44.00000'/>
+		<WIRE a='262.00000,34.00000' b='262.00000,36.00000'/>
+		<WIRE a='304.00000,44.00000' b='318.00000,44.00000'/>
+		<WIRE a='258.00000,40.00000' b='300.00000,40.00000'/>
+		<WIRE a='300.00000,40.00000' b='300.00000,48.00000'/>
+		<WIRE a='258.00000,34.00000' b='258.01400,40.00000'/>
+		<BUS a='206.00000,90.00000' b='244.00000,90.00000'/>
+		<RECTANGLE a='346.09092,106.19000' b='379.80023,124.34013' style='5' fill='0'/>
+		<TEXT pos='365.49092,124.19000' direction='3' font='3' color='000000'>FROGS</TEXT>
+		<TEXT pos='351.49092,124.19000' direction='3' font='3' color='000000'>DCC</TEXT>
+		<NOTE_TEXT a='354.12761,107.63852' b='367.92761,111.57343' direction='3' style='7' fill='14' font='9' color='FF0000' border_style='1'>FJ-XVR</NOTE_TEXT>
+		<SYMBOL id='2' pos='356.03193,120.00793' part='0' rotate='4' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='1' description='Ref' value='TB' show='0' pos='1.00000,-6.00000'/>
+			<FIELD type='1' description='Name' value='Termination Block 2 way' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-3.60000'/>
+		</SYMBOL>
+		<SYMBOL id='2' pos='376.21400,120.00793' part='0' rotate='0' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='1' description='Ref' value='TB' show='0' pos='1.00000,-6.00000'/>
+			<FIELD type='1' description='Name' value='Termination Block 2 way' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-3.60000'/>
+		</SYMBOL>
+		<WIRE a='386.00000,118.00000' b='376.21400,118.00000'/>
+		<WIRE a='382.00000,114.00000' b='376.21400,114.00000'/>
+		<RECTANGLE a='274.09092,106.19000' b='307.80023,124.34013' style='5' fill='0'/>
+		<TEXT pos='293.49092,124.19000' direction='3' font='3' color='000000'>FROGS</TEXT>
+		<TEXT pos='279.49092,124.19000' direction='3' font='3' color='000000'>DCC</TEXT>
+		<NOTE_TEXT a='282.12761,107.63852' b='299.92761,111.57343' direction='3' style='7' fill='13' font='9' color='FF0000' border_style='1'>AR-Y LOOP</NOTE_TEXT>
+		<SYMBOL id='2' pos='284.03193,120.00793' part='0' rotate='4' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='1' description='Ref' value='TB' show='0' pos='1.00000,-6.00000'/>
+			<FIELD type='1' description='Name' value='Termination Block 2 way' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-3.60000'/>
+		</SYMBOL>
+		<SYMBOL id='2' pos='304.21400,120.00793' part='0' rotate='0' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='1' description='Ref' value='TB' show='0' pos='1.00000,-6.00000'/>
+			<FIELD type='1' description='Name' value='Termination Block 2 way' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-3.60000'/>
+		</SYMBOL>
+		<TEXT pos='207.40000,94.60000' direction='3' font='10' color='000000'>East South wall and east wall</TEXT>
+		<BUS a='244.00000,90.00000' b='244.00000,96.00000'/>
+		<TEXT pos='277.60000,94.40000' direction='3' font='10' color='000000'>South Ctr Peninsula</TEXT>
+		<WIRE a='270.21400,114.00000' b='274.03193,114.00000'/>
+		<WIRE a='266.21400,118.00000' b='274.03193,118.00000'/>
+		<BUS a='334.00000,106.00000' b='316.00000,106.00000'/>
+		<BUSSLASH pos='316.00000,106.00000' direction='0'/>
+		<BUSSLASH pos='320.00000,106.00000' direction='0'/>
+		<WIRE a='312.00000,110.00000' b='312.00000,114.00000'/>
+		<WIRE a='312.00000,114.00000' b='304.21400,114.00000'/>
+		<WIRE a='316.00000,110.00000' b='316.00000,118.00000'/>
+		<WIRE a='316.00000,118.00000' b='304.21400,118.00000'/>
+		<WIRE a='304.21400,118.00000' b='304.21400,118.00793'/>
+		<TEXT pos='322.00000,110.00000' direction='3' font='10' color='000000'>Y Loop</TEXT>
+		<WIRE a='338.34928,96.01759' b='342.36687,92.00000'/>
+		<WIRE a='338.34928,100.01759' b='342.36687,96.00000'/>
+		<BUSSLASH pos='342.00000,100.00000' direction='1'/>
+		<WIRE a='342.00000,100.00000' b='342.00000,114.00000'/>
+		<WIRE a='342.00000,114.00000' b='352.03193,114.00000'/>
+		<WIRE a='338.34928,100.01759' b='338.34928,118.00000'/>
+		<WIRE a='338.34928,118.00000' b='352.03193,118.00000'/>
+		<WIRE a='382.00000,114.00000' b='382.00000,98.00000'/>
+		<WIRE a='382.00000,98.00000' b='396.00000,98.00000'/>
+		<WIRE a='386.00000,118.00000' b='386.00000,102.00000'/>
+		<WIRE a='386.00000,102.00000' b='396.00000,102.00000'/>
+		<POLYGON pos='394.00000,96.00000' style='5' fill='0'>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+			<POINT pos='2.00000,2.00000' arc='0'/>
+			<POINT pos='0.00000,4.00000' arc='0'/>
+		</POLYGON>
+		<POLYGON pos='394.00000,100.00000' style='5' fill='0'>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+			<POINT pos='2.00000,2.00000' arc='0'/>
+			<POINT pos='0.00000,4.00000' arc='0'/>
+		</POLYGON>
+		<TEXT pos='346.00000,94.00000' direction='3' font='10' color='000000'>Crossover and ctr peninsula end</TEXT>
+		<BUS a='342.00000,96.00000' b='342.00000,90.00000'/>
+		<BUS a='342.00000,90.00000' b='392.00000,90.00000'/>
+		<TEXT pos='388.00000,108.00000' direction='3' font='10' color='000000'>Crossover frogs</TEXT>
+		<JUNCTION pos='338.34928,96.01759'/>
+		<JUNCTION pos='338.36687,100.00000'/>
+		<JUNCTION pos='336.00000,44.00000'/>
+		<JUNCTION pos='336.00000,48.00000'/>
+		<JUNCTION pos='318.00000,44.00000'/>
+		<JUNCTION pos='318.00000,48.00000'/>
+		<WIRE a='372.00000,74.00000' b='372.00000,78.00000'/>
+		<WIRE a='296.00000,114.00000' b='296.00000,118.00000'/>
+		<WIRE a='370.00000,40.00000' b='370.00000,44.00000'/>
+		<BUS a='310.00000,42.00000' b='310.00000,22.00000'/>
+		<BUS a='310.00000,22.00000' b='316.00000,22.00000'/>
+		<POLYGON pos='218.00000,72.00000' style='8' fill='0'>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+			<POINT pos='112.00000,0.00000' arc='0'/>
+			<POINT pos='112.00000,14.00000' arc='0'/>
+			<POINT pos='188.00000,14.00000' arc='0'/>
+		</POLYGON>
+		<LABEL pos='152.00000,128.00000' direction='2' font='6' color='208000' style='0'>RD</LABEL>
+		<LABEL pos='152.00000,124.00000' direction='2' font='11' color='208000' style='0'>WH</LABEL>
+		<SYMBOL id='1' pos='168.00000,138.00000' part='0' rotate='0' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='0' description='Ref' value='TB22' show='1' pos='-11.00000,-18.00000'/>
+			<FIELD type='1' description='Name' value='Terminal' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-11.60000'/>
+		</SYMBOL>
+		<LABEL pos='174.00000,120.00000' direction='3' font='7' color='208000' style='0'>RD</LABEL>
+		<LABEL pos='174.00000,116.00000' direction='3' font='7' color='208000' style='0'>RD</LABEL>
+		<WIRE a='168.00000,124.00000' b='168.00000,116.00000'/>
+		<WIRE a='168.00000,116.00000' b='180.00000,116.00000'/>
+		<WIRE a='168.00000,124.00000' b='172.00000,120.00000'/>
+		<WIRE a='168.00000,128.00000' b='172.00000,124.00000'/>
+		<LABEL pos='174.00000,124.00000' direction='3' font='6' color='208000' style='0'>BK</LABEL>
+		<WIRE a='172.00000,120.00000' b='202.00000,120.00000'/>
+		<WIRE a='168.00000,128.00000' b='202.00000,128.00000'/>
+		<JUNCTION pos='168.00000,124.00000'/>
+		<JUNCTION pos='168.00000,128.00000'/>
+		<JUNCTION pos='168.00000,132.00000'/>
+		<JUNCTION pos='168.00000,136.00000'/>
+		<WIRE a='202.00000,28.00000' b='180.00000,28.00000'/>
+		<WIRE a='180.00000,28.00000' b='180.00000,116.00000'/>
+		<BUS a='206.00000,90.00000' b='206.00000,124.00000'/>
+		<BUSSLASH pos='206.00000,116.00000' direction='0'/>
+		<BUSSLASH pos='206.00000,124.00000' direction='0'/>
+		<WIRE a='172.00000,124.00000' b='184.00000,124.00000'/>
+		<WIRE a='202.00000,32.00000' b='184.00000,32.00000'/>
+		<WIRE a='184.00000,124.00000' b='184.00000,32.00000'/>
+		<POLYGON pos='204.00000,140.00000' style='8' fill='0'>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+			<POINT pos='196.00000,0.00000' arc='0'/>
+		</POLYGON>
+		<WIRE a='251.92570,195.62587' b='252.12570,195.62587'/>
+		<NOTE_TEXT a='26.00000,88.00000' b='130.00000,104.00000' direction='3' style='7' fill='15' font='4' color='FF0000' border_style='1'>Legend
+AR-X---Auto reversers (Tam Valley Dual Frog Juicer)
+FJ-XVR--- Frog Reverser (Tam Valley Dual Frog Juicer)</NOTE_TEXT>
+		<WIRE a='126.00000,128.00000' b='152.00000,128.00000'/>
+		<WIRE a='126.00000,124.00000' b='152.00000,124.00000'/>
+		<WIRE a='130.00000,130.00000' b='122.00000,130.00000'/>
+		<WIRE a='122.00000,130.00000' b='122.00000,122.00000'/>
+		<WIRE a='122.00000,122.00000' b='130.00000,122.00000'/>
+		<WIRE a='122.00000,126.00000' b='116.00000,126.00000'/>
+		<NOTE_TEXT a='38.00000,124.00000' b='110.00000,130.00000' direction='3' style='7' fill='17' font='8' color='FF0000' border_style='1'>16 SOUTH DISTRICT (16S)  (Sheet 1)
+</NOTE_TEXT>
+		<BUS a='186.00000,188.00000' b='186.00000,194.00000'/>
+		<BUS a='186.00000,194.00000' b='232.00000,194.00000'/>
+		<SYMBOL id='8' pos='257.80000,209.80000' part='0' rotate='0' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='0' description='Ref' value='TB20' show='1' pos='-15.62722,-10.24852'/>
+			<FIELD type='1' description='Name' value='' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-7.60000'/>
+			<FIELD type='3' description='Other' value='1' show='1' pos='-17.63314,-8.36923'/>
+			<FIELD type='3' description='Other' value='2' show='1' pos='-17.27811,-4.31243'/>
+		</SYMBOL>
+		<BUSSLASH pos='236.00000,202.00000' direction='1'/>
+		<BUSSLASH pos='236.00000,206.00000' direction='1'/>
+		<BUS a='232.00000,194.00000' b='232.00000,202.00000'/>
+		<WIRE a='294.00000,214.00000' b='287.27692,214.00000'/>
+		<WIRE a='294.00000,218.00000' b='287.27692,218.00000'/>
+		<BUSSLASH pos='256.00000,198.00000' direction='0'/>
+		<BUSSLASH pos='256.00000,202.00000' direction='0'/>
+		<BUS a='256.00000,202.00000' b='256.00000,194.00000'/>
+		<BUS a='256.00000,194.00000' b='328.00000,194.00000'/>
+		<JUNCTION pos='252.00000,202.00000'/>
+		<JUNCTION pos='252.00000,206.00000'/>
+		<BUS a='186.00000,176.00000' b='186.00000,162.00000'/>
+		<BUS a='186.00000,162.00000' b='252.00000,162.00000'/>
+		<SYMBOL id='1' pos='170.00000,194.00000' part='0' rotate='0' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='0' description='Ref' value='TB19' show='1' pos='-9.00000,-18.00000'/>
+			<FIELD type='1' description='Name' value='Terminal' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-11.60000'/>
+		</SYMBOL>
+		<TEXT pos='198.00000,161.04000' direction='3' font='3' color='000000'>Centre Peninsula end area</TEXT>
+		<TEXT pos='190.34000,192.70000' direction='3' font='3' color='000000'>Centre peninsula to just pass bridge</TEXT>
+		<RECTANGLE a='262.09092,204.19000' b='293.80023,222.34013' style='5' fill='0'/>
+		<TEXT pos='283.03575,211.82860' direction='3' font='3' color='000000'>FROGS</TEXT>
+		<TEXT pos='267.39989,211.82860' direction='3' font='3' color='000000'>DCC</TEXT>
+		<NOTE_TEXT a='272.94417,204.83288' b='289.20207,208.76779' direction='3' style='7' fill='14' font='5' color='FF0000' border_style='1'>AR-REV16NR</NOTE_TEXT>
+		<SYMBOL id='2' pos='272.03193,220.00793' part='0' rotate='4' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='1' description='Ref' value='TB' show='0' pos='1.00000,-6.00000'/>
+			<FIELD type='1' description='Name' value='Termination Block 2 way' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-3.60000'/>
+		</SYMBOL>
+		<SYMBOL id='2' pos='292.21400,220.00793' part='0' rotate='0' can_scale='0' show_power='0' scale_x='1.00000' scale_y='1.00000'>
+			<FIELD type='1' description='Ref' value='TB' show='0' pos='1.00000,-6.00000'/>
+			<FIELD type='1' description='Name' value='Termination Block 2 way' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_PROLOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='2' description='$$SPICE_EPILOG_PRIORITY' value='5' show='0' pos='0.00000,0.00000'/>
+			<FIELD type='1' description='Package' value='package name for PCB layout' show='0' pos='1.00000,-3.60000'/>
+		</SYMBOL>
+		<WIRE a='286.00000,214.00000' b='286.00000,218.00000'/>
+		<BUSSLASH pos='256.00000,206.00000' direction='1'/>
+		<WIRE a='256.00000,206.00000' b='256.00000,214.00000'/>
+		<WIRE a='256.00000,214.00000' b='264.03193,214.00000'/>
+		<WIRE a='264.03193,214.00000' b='264.03193,214.00793'/>
+		<WIRE a='251.80000,205.80000' b='252.00000,205.80000'/>
+		<WIRE a='252.00000,205.80000' b='252.00000,218.00793'/>
+		<WIRE a='252.00000,218.00793' b='264.03193,218.00793'/>
+		<BUS a='300.00000,210.00000' b='332.00000,210.00000'/>
+		<WIRE a='303.75000,209.76563' b='304.00000,214.00000'/>
+		<WIRE a='304.00000,214.00000' b='300.00000,218.00000'/>
+		<TEXT pos='305.20000,209.00000' direction='3' font='3' color='000000'>16NR Reverse loop</TEXT>
+		<WIRE a='294.21400,214.00793' b='300.00000,214.00793'/>
+		<WIRE a='300.00000,214.00793' b='300.00000,210.00000'/>
+		<WIRE a='294.21400,218.00793' b='300.00000,218.00793'/>
+		<WIRE a='300.00000,218.00793' b='300.00000,218.00000'/>
+		<TEXT pos='266.08000,193.04000' direction='3' font='3' color='000000'>Outer peninsula south tracks</TEXT>
+		<NOTE_TEXT a='44.00000,182.00000' b='116.00000,190.00000' direction='3' style='7' fill='15' font='8' color='FF0000' border_style='1'>16N NORTH DISTRICT (16N)  (Sheet 1)
+</NOTE_TEXT>
+		<WIRE a='128.00000,188.00000' b='152.00000,188.00000'/>
+		<WIRE a='132.00000,190.00000' b='124.00000,190.00000'/>
+		<WIRE a='124.00000,190.00000' b='124.00000,182.00000'/>
+		<WIRE a='124.00000,182.00000' b='132.00000,182.00000'/>
+		<WIRE a='124.00000,186.00000' b='118.00000,186.00000'/>
+		<NOTE_TEXT a='192.00000,146.00000' b='340.00000,154.00000' direction='3' style='7' fill='15' font='13' color='FF0000' border_style='1'>Powers all 16mm tracks in Nth centre peninsula, East bridges, and outer peninsula</NOTE_TEXT>
+		<WIRE a='152.00000,184.00000' b='152.00000,180.00000'/>
+		<WIRE a='152.00000,188.00000' b='152.00000,192.00000'/>
+		<WIRE a='174.00000,180.00000' b='174.00000,176.00000'/>
+		<WIRE a='170.00000,192.00000' b='178.00000,192.00000'/>
+		<WIRE a='170.00000,184.00000' b='182.00000,184.00000'/>
+		<BUSSLASH pos='186.00000,176.00000' direction='0'/>
+		<BUSSLASH pos='186.00000,172.00000' direction='0'/>
+		<WIRE a='170.00000,180.00000' b='174.00000,180.00000'/>
+		<WIRE a='174.00000,176.00000' b='182.00000,176.00000'/>
+		<BUSSLASH pos='186.00000,192.00000' direction='1'/>
+		<BUSSLASH pos='186.00000,188.00000' direction='1'/>
+		<WIRE a='170.00000,188.00000' b='182.00000,188.00000'/>
+		<WIRE a='178.00000,192.00000' b='178.00000,180.00000'/>
+		<WIRE a='178.00000,180.00000' b='182.00000,180.00000'/>
+		<JUNCTION pos='152.00000,184.00000'/>
+		<JUNCTION pos='152.00000,188.00000'/>
+		<LABEL pos='174.00000,128.00000' direction='3' font='14' color='208000' style='0'>BK</LABEL>
+		<LABEL pos='166.00000,192.00000' direction='3' font='15' color='208000' style='0'>BK</LABEL>
+		<LABEL pos='166.00000,188.00000' direction='3' font='15' color='208000' style='0'>BK</LABEL>
+		<LABEL pos='158.00000,188.00000' direction='2' font='15' color='208000' style='0'>BK</LABEL>
+		<LABEL pos='158.00000,184.00000' direction='2' font='15' color='208000' style='0'>RD</LABEL>
+		<LABEL pos='158.00000,180.00000' direction='2' font='15' color='208000' style='0'>RD</LABEL>
+		<WIRE a='154.00000,192.00000' b='152.00000,192.00000'/>
+		<WIRE a='154.00000,180.00000' b='152.00000,180.00000'/>
+		<WIRE a='154.00000,184.00000' b='128.00000,184.00000'/>
+		<LABEL pos='158.00000,192.00000' direction='2' font='15' color='208000' style='0'>BK</LABEL>
+		<WIRE a='154.00000,188.00000' b='152.00000,188.00000'/>
+		<LABEL pos='166.00000,180.00000' direction='3' font='15' color='208000' style='0'>RD</LABEL>
+		<LABEL pos='166.00000,184.00000' direction='3' font='15' color='208000' style='0'>RD</LABEL>
+		<WIRE a='258.21400,29.99000' b='258.21400,30.19000'/>
+		<WIRE a='242.21400,33.99000' b='242.21400,34.19000'/>
+		<WIRE a='258.21400,33.99000' b='258.21400,34.19000'/>
+		<WIRE a='320.00000,48.00000' b='300.00000,48.00000'/>
+		<WIRE a='320.00000,44.00000' b='318.00000,44.00000'/>
+		<WIRE a='248.21400,96.19000' b='250.01400,96.19000'/>
+		<WIRE a='250.01400,96.19000' b='250.10503,96.17207'/>
+		<WIRE a='248.21400,100.19000' b='250.01400,100.19000'/>
+		<WIRE a='250.01400,100.19000' b='250.10503,100.17207'/>
+		<NOTE_TEXT a='100.00000,226.00000' b='258.00000,256.00000' direction='3' style='7' fill='17' font='16' color='FF0000' border_style='1'>Wiring notes:
+1.Buss feeds colours are red (RD) and black (BK). except where shown.
+2. Dropper wire TB&#039;s not shown for clarity.
+3. Dropper wire colours are WH/RD and WH.
+4. Dropper wire WH/RD is connected to  RD buss wire and connected to aisle side ot track 
+5. All reverser feeds and Frog outputs are  dropper wire format.
+ 
+
+ </NOTE_TEXT>
+		<NOTE_TEXT a='18.00000,146.00000' b='140.00000,156.00000' direction='3' style='7' fill='16' font='6' color='FF0000' border_style='1'>Refer to DWG 04 for Terminal Block, auto reverser and buss cabling locations </NOTE_TEXT>
+		<WIRE a='284.00000,214.00000' b='284.00000,218.00000'/>
+	</TinyCAD>
+</TinyCADSheets>
