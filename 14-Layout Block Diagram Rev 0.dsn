@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!--This file was written by TinyCAD Version 2.90.00 Build #686 Production Release
@@ -397,3 +398,404 @@ Stacked</NOTE_TEXT>
 		<WIRE a='209.00000,143.00000' b='209.00000,147.00000'/>
 	</TinyCAD>
 </TinyCADSheets>
+=======
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--This file was written by TinyCAD Version 2.90.00 Build #686 Production Release
+If you wish to view this file go to http://tinycad.sourceforge.net to
+download the executable.-->
+<TinyCADSheets>
+	<TinyCAD>
+		<NAME>Sheet 1</NAME>
+		<DETAILS>
+			<Size width='1485' height='1050'/>
+			<GUIDES horiz='10' vert='10'/>
+			<TITLE>HO Layout Block Diagram</TITLE>
+			<AUTHOR>K Maizey</AUTHOR>
+			<REVISION>Rev 0</REVISION>
+			<DOCNUMBER>14</DOCNUMBER>
+			<ORGANISATION>RMCQ</ORGANISATION>
+			<SHEETS>1 of 1</SHEETS>
+			<SHOWS>3</SHOWS>
+			<DATE>28 Jun 2018</DATE>
+			<GRID spacing='50.00000' snap='1'/>
+		</DETAILS>
+		<FONT id='3'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='4'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='5'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='6'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='7'>
+			<HEIGHT>-13</HEIGHT>
+			<WIDTH>6</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='8'>
+			<HEIGHT>-16</HEIGHT>
+			<WIDTH>7</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='9'>
+			<HEIGHT>-16</HEIGHT>
+			<WIDTH>7</WIDTH>
+			<WEIGHT>400</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<FONT id='10'>
+			<HEIGHT>-19</HEIGHT>
+			<WIDTH>9</WIDTH>
+			<WEIGHT>700</WEIGHT>
+			<ITALIC>0</ITALIC>
+			<UNDERLINE>0</UNDERLINE>
+			<STRIKEOUT>0</STRIKEOUT>
+			<CHARSET>0</CHARSET>
+			<FACENAME>Arial</FACENAME>
+		</FONT>
+		<STYLE id='4'>
+			<STYLE>0</STYLE>
+			<COLOR>000000</COLOR>
+			<THICKNESS>1</THICKNESS>
+		</STYLE>
+		<STYLE id='5'>
+			<STYLE>0</STYLE>
+			<COLOR>FF0000</COLOR>
+			<THICKNESS>1</THICKNESS>
+		</STYLE>
+		<STYLE id='6'>
+			<STYLE>2</STYLE>
+			<COLOR>000000</COLOR>
+			<THICKNESS>3</THICKNESS>
+		</STYLE>
+		<FILL id='0'>
+			<INDEX>-1</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='2'>
+			<INDEX>0</INDEX>
+			<COLOR>AFFFFF</COLOR>
+		</FILL>
+		<FILL id='3'>
+			<INDEX>0</INDEX>
+			<COLOR>AFFFFF</COLOR>
+		</FILL>
+		<FILL id='4'>
+			<INDEX>0</INDEX>
+			<COLOR>FFFF80</COLOR>
+		</FILL>
+		<FILL id='5'>
+			<INDEX>0</INDEX>
+			<COLOR>AFFFFF</COLOR>
+		</FILL>
+		<FILL id='6'>
+			<INDEX>0</INDEX>
+			<COLOR>AFFFFF</COLOR>
+		</FILL>
+		<FILL id='7'>
+			<INDEX>6</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='8'>
+			<INDEX>0</INDEX>
+			<COLOR>FFFF80</COLOR>
+		</FILL>
+		<FILL id='9'>
+			<INDEX>0</INDEX>
+			<COLOR>AFFFFF</COLOR>
+		</FILL>
+		<FILL id='10'>
+			<INDEX>6</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='11'>
+			<INDEX>0</INDEX>
+			<COLOR>AFFFFF</COLOR>
+		</FILL>
+		<FILL id='12'>
+			<INDEX>6</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='13'>
+			<INDEX>0</INDEX>
+			<COLOR>AFFFFF</COLOR>
+		</FILL>
+		<FILL id='14'>
+			<INDEX>6</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='15'>
+			<INDEX>0</INDEX>
+			<COLOR>AFFFFF</COLOR>
+		</FILL>
+		<FILL id='16'>
+			<INDEX>6</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='17'>
+			<INDEX>0</INDEX>
+			<COLOR>AFFFFF</COLOR>
+		</FILL>
+		<FILL id='18'>
+			<INDEX>6</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<FILL id='19'>
+			<INDEX>0</INDEX>
+			<COLOR>AFFFFF</COLOR>
+		</FILL>
+		<FILL id='20'>
+			<INDEX>0</INDEX>
+			<COLOR>AFFFFF</COLOR>
+		</FILL>
+		<FILL id='21'>
+			<INDEX>6</INDEX>
+			<COLOR>000000</COLOR>
+		</FILL>
+		<OPTIONS>
+			<GRID>1</GRID>
+			<UNITS>0</UNITS>
+			<COLOR_WIRE>000000</COLOR_WIRE>
+			<COLOR_BUS>0000FF</COLOR_BUS>
+			<COLOR_JUNCTION>000000</COLOR_JUNCTION>
+			<COLOR_NOCONNECT>000000</COLOR_NOCONNECT>
+			<COLOR_LABEL>208000</COLOR_LABEL>
+			<COLOR_POWER>000000</COLOR_POWER>
+			<COLOR_PIN>4040C0</COLOR_PIN>
+			<COLOR_HIDDEN_PIN>208020</COLOR_HIDDEN_PIN>
+			<COLOR_BACKGROUND>FFFFFF</COLOR_BACKGROUND>
+			<COLOR_NOTETEXT_FILL>AFFFFF</COLOR_NOTETEXT_FILL>
+			<COLOR_NOTETEXT_LINE>FF0000</COLOR_NOTETEXT_LINE>
+			<COLOR_NOTETEXT_TEXT>FF0000</COLOR_NOTETEXT_TEXT>
+		</OPTIONS>
+		<RECTANGLE a='43.00000,32.00000' b='73.00000,44.00000' style='4' fill='7'/>
+		<NOTE_TEXT a='52.00000,35.00000' b='67.00000,40.00000' direction='3' style='5' fill='6' font='7' color='FF0000' border_style='1'>Computer</NOTE_TEXT>
+		<RECTANGLE a='177.00000,33.00000' b='235.00000,87.00000' style='4' fill='0'/>
+		<RECTANGLE a='179.00000,72.00000' b='197.00000,81.00000' style='4' fill='10'/>
+		<RECTANGLE a='97.00000,18.00000' b='121.00000,26.00000' style='4' fill='14'/>
+		<RECTANGLE a='180.00000,33.00000' b='195.00000,43.00000' style='4' fill='10'/>
+		<NOTE_TEXT a='181.00000,74.00000' b='195.00000,79.00000' direction='3' style='5' fill='9' font='7' color='FF0000' border_style='1'>12V C/B&#039;s</NOTE_TEXT>
+		<NOTE_TEXT a='194.00000,34.00000' b='182.00000,42.00000' direction='3' style='5' fill='9' font='7' color='FF0000' border_style='1'>EB Switches</NOTE_TEXT>
+		<RECTANGLE a='202.00000,33.00000' b='220.00000,43.00000' style='4' fill='7'/>
+		<NOTE_TEXT a='98.00000,20.00000' b='119.00000,24.00000' direction='3' style='5' fill='6' font='7' color='FF0000' border_style='1'>Power Supply</NOTE_TEXT>
+		<LABEL pos='90.00000,22.00000' direction='3' font='7' color='208000' style='1'>Mains Power</LABEL>
+		<NOTE_TEXT a='204.00000,34.00000' b='218.00000,42.00000' direction='3' style='5' fill='6' font='7' color='FF0000' border_style='1'>EB1 C/B&#039;s
+Stacked</NOTE_TEXT>
+		<POLYGON pos='76.00000,99.00000' style='4' fill='7'>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+			<POINT pos='0.00000,5.00000' arc='0'/>
+			<POINT pos='1.00000,7.00000' arc='0'/>
+			<POINT pos='1.00000,19.00000' arc='0'/>
+			<POINT pos='6.00000,19.00000' arc='0'/>
+			<POINT pos='6.00000,7.00000' arc='0'/>
+			<POINT pos='7.00000,5.00000' arc='0'/>
+			<POINT pos='7.00000,0.00000' arc='0'/>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+		</POLYGON>
+		<NOTE_TEXT a='74.00000,112.00000' b='86.00000,108.00000' direction='3' style='5' fill='6' font='7' color='FF0000' border_style='1'>Handset</NOTE_TEXT>
+		<RECTANGLE a='40.00000,88.00000' b='64.00000,102.00000' style='4' fill='7'/>
+		<NOTE_TEXT a='46.00000,92.00000' b='58.00000,97.00000' direction='3' style='5' fill='2' font='6' color='FF0000' border_style='1'>Modem</NOTE_TEXT>
+		<LABEL pos='237.00000,34.00000' direction='2' font='6' color='208000' style='2'>Front Tracks</LABEL>
+		<RECTANGLE a='44.00000,124.00000' b='60.00000,135.00000' style='4' fill='16'/>
+		<NOTE_TEXT a='45.00000,128.00000' b='59.00000,133.00000' direction='3' style='5' fill='15' font='6' color='FF0000' border_style='1'>Controller</NOTE_TEXT>
+		<WIRE a='54.00000,124.00000' b='47.00000,114.00000'/>
+		<WIRE a='47.00000,114.00000' b='59.00000,114.00000'/>
+		<WIRE a='59.00000,114.00000' b='46.00000,110.00000'/>
+		<WIRE a='46.00000,110.00000' b='56.00000,108.00000'/>
+		<WIRE a='56.00000,108.00000' b='56.00000,102.00000'/>
+		<NOTE_TEXT a='26.00000,109.00000' b='44.00000,115.00000' direction='3' style='5' fill='4' font='6' color='FF0000' border_style='1'>WiFi Signal</NOTE_TEXT>
+		<BUSNAME pos='81.00000,88.00000' direction='0' font='6' color='208000'>Cab Bus</BUSNAME>
+		<BUS a='28.00000,164.00000' b='44.00000,164.00000'/>
+		<TEXT pos='45.00000,166.00000' direction='3' font='8' color='000000'>Data Bus</TEXT>
+		<WIRE a='28.00000,169.00000' b='44.00000,169.00000'/>
+		<TEXT pos='45.00000,171.00000' direction='3' font='9' color='000000'>1 or 2 cable wire</TEXT>
+		<TEXT pos='44.00000,176.00000' direction='3' font='9' color='000000'>Component Name</TEXT>
+		<POLYGON pos='91.00000,99.00000' style='4' fill='7'>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+			<POINT pos='0.00000,5.00000' arc='0'/>
+			<POINT pos='1.00000,7.00000' arc='0'/>
+			<POINT pos='1.00000,19.00000' arc='0'/>
+			<POINT pos='6.00000,19.00000' arc='0'/>
+			<POINT pos='6.00000,7.00000' arc='0'/>
+			<POINT pos='7.00000,5.00000' arc='0'/>
+			<POINT pos='7.00000,0.00000' arc='0'/>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+		</POLYGON>
+		<NOTE_TEXT a='89.00000,112.00000' b='101.00000,108.00000' direction='3' style='5' fill='6' font='7' color='FF0000' border_style='1'>Handset</NOTE_TEXT>
+		<TEXT pos='31.00000,161.00000' direction='3' font='5' color='000000'>Legend</TEXT>
+		<NOTE_TEXT a='183.00000,89.00000' b='220.00000,94.00000' direction='3' style='5' fill='3' font='5' color='FF0000' border_style='1'> Ctr Peninsula Control Box</NOTE_TEXT>
+		<NOTE_TEXT a='29.00000,172.00000' b='39.00000,176.00000' direction='3' style='5' fill='5' font='4' color='FF0000' border_style='1'>Name</NOTE_TEXT>
+		<WIRE a='53.00000,88.00000' b='46.00000,78.00000'/>
+		<WIRE a='46.00000,78.00000' b='58.00000,78.00000'/>
+		<WIRE a='58.00000,78.00000' b='45.00000,73.00000'/>
+		<WIRE a='45.00000,73.00000' b='58.00000,70.00000'/>
+		<WIRE a='58.00000,70.00000' b='58.00000,44.00000'/>
+		<NOTE_TEXT a='25.00000,73.00000' b='43.00000,79.00000' direction='3' style='5' fill='8' font='6' color='FF0000' border_style='1'>WiFi Signal</NOTE_TEXT>
+		<RECTANGLE a='97.00000,33.00000' b='131.00000,43.00000' style='4' fill='7'/>
+		<NOTE_TEXT a='99.00000,35.00000' b='126.00000,40.00000' direction='3' style='5' fill='6' font='6' color='FF0000' border_style='1'>Power Pro Controller</NOTE_TEXT>
+		<BUS a='73.00000,37.00000' b='97.00000,37.00000'/>
+		<WIRE a='111.00000,26.00000' b='111.00000,33.00000'/>
+		<BUS a='82.00000,40.00000' b='82.00000,99.00000'/>
+		<BUS a='82.00000,90.00000' b='95.00000,90.00000'/>
+		<BUS a='95.00000,90.00000' b='95.00000,99.00000'/>
+		<BUS a='119.00000,43.00000' b='119.00000,135.00000'/>
+		<WIRE a='125.00000,43.00000' b='125.00000,135.00000'/>
+		<WIRE a='131.00000,37.00000' b='180.00000,37.00000'/>
+		<WIRE a='203.00000,38.00000' b='195.00000,38.00000'/>
+		<RECTANGLE a='180.00000,61.00000' b='195.00000,70.00000' style='4' fill='10'/>
+		<NOTE_TEXT a='182.00000,63.00000' b='194.00000,68.00000' direction='3' style='5' fill='9' font='7' color='FF0000' border_style='1'>5V C/B</NOTE_TEXT>
+		<RECTANGLE a='180.00000,47.00000' b='195.00000,59.00000' style='4' fill='12'/>
+		<NOTE_TEXT a='182.00000,49.00000' b='193.00000,57.00000' direction='3' style='5' fill='11' font='7' color='FF0000' border_style='1'>Curent Monitor</NOTE_TEXT>
+		<WIRE a='187.00000,43.00000' b='187.00000,47.00000'/>
+		<RECTANGLE a='138.00000,63.00000' b='162.00000,69.00000' style='4' fill='14'/>
+		<NOTE_TEXT a='139.00000,64.00000' b='161.00000,68.00000' direction='3' style='5' fill='13' font='7' color='FF0000' border_style='1'>Power Supply</NOTE_TEXT>
+		<WIRE a='195.00000,61.00000' b='236.00000,61.00000'/>
+		<WIRE a='220.00000,34.00000' b='237.00000,34.00000'/>
+		<WIRE a='220.00000,36.00000' b='233.00000,36.00000'/>
+		<WIRE a='220.00000,42.00000' b='227.00000,42.00000'/>
+		<LABEL pos='237.00000,38.00000' direction='2' font='6' color='208000' style='2'>YardTracks</LABEL>
+		<LABEL pos='237.00000,42.00000' direction='2' font='6' color='208000' style='2'>Station Tracks</LABEL>
+		<LABEL pos='237.00000,46.00000' direction='2' font='6' color='208000' style='2'>East Tracks</LABEL>
+		<LABEL pos='237.00000,50.00000' direction='2' font='6' color='208000' style='2'>Centre Tracks</LABEL>
+		<WIRE a='233.00000,36.00000' b='233.00000,38.00000'/>
+		<WIRE a='233.00000,38.00000' b='237.00000,38.00000'/>
+		<WIRE a='220.00000,38.00000' b='231.00000,38.00000'/>
+		<WIRE a='231.00000,38.00000' b='231.00000,42.00000'/>
+		<WIRE a='231.00000,42.00000' b='237.00000,42.00000'/>
+		<WIRE a='220.00000,40.00000' b='229.00000,40.00000'/>
+		<WIRE a='229.00000,40.00000' b='229.00000,46.00000'/>
+		<WIRE a='229.00000,46.00000' b='237.00000,46.00000'/>
+		<WIRE a='227.00000,42.00000' b='227.00000,50.00000'/>
+		<WIRE a='227.00000,50.00000' b='237.00000,50.00000'/>
+		<LABEL pos='236.00000,65.00000' direction='2' font='6' color='208000' style='2'>Upper Control Panels</LABEL>
+		<WIRE a='197.00000,78.00000' b='236.00000,78.00000'/>
+		<LABEL pos='236.00000,70.00000' direction='2' font='6' color='208000' style='2'>Lower Deck Gen</LABEL>
+		<LABEL pos='236.00000,74.00000' direction='2' font='6' color='208000' style='2'>Upper Deck Gen</LABEL>
+		<LABEL pos='236.00000,78.00000' direction='2' font='6' color='208000' style='2'>Upper Deck lights</LABEL>
+		<WIRE a='236.00000,74.00000' b='231.00000,74.00000'/>
+		<WIRE a='231.00000,74.00000' b='231.00000,76.00000'/>
+		<WIRE a='231.00000,76.00000' b='197.00000,76.00000'/>
+		<WIRE a='236.00000,70.00000' b='229.00000,70.00000'/>
+		<WIRE a='229.00000,70.00000' b='229.00000,74.00000'/>
+		<WIRE a='229.00000,74.00000' b='197.00000,74.00000'/>
+		<WIRE a='180.00000,66.00000' b='162.00000,66.00000'/>
+		<WIRE a='162.00000,68.00000' b='175.00000,68.00000'/>
+		<WIRE a='175.00000,68.00000' b='175.00000,77.00000'/>
+		<WIRE a='175.00000,77.00000' b='179.00000,77.00000'/>
+		<WIRE a='90.00000,22.00000' b='97.00000,22.00000'/>
+		<LABEL pos='148.00000,59.00000' direction='3' font='7' color='208000' style='1'>Mains Power</LABEL>
+		<WIRE a='148.00000,59.00000' b='151.00000,59.00000'/>
+		<WIRE a='151.00000,59.00000' b='151.00000,63.00000'/>
+		<LABEL pos='47.00000,25.00000' direction='3' font='7' color='208000' style='1'>Mains Power</LABEL>
+		<WIRE a='47.00000,25.00000' b='57.00000,25.00000'/>
+		<WIRE a='57.00000,25.00000' b='57.00000,32.00000'/>
+		<RECTANGLE a='175.00000,127.00000' b='233.00000,169.00000' style='4' fill='0'/>
+		<RECTANGLE a='178.00000,133.00000' b='193.00000,143.00000' style='4' fill='10'/>
+		<NOTE_TEXT a='192.00000,134.00000' b='180.00000,142.00000' direction='3' style='5' fill='9' font='7' color='FF0000' border_style='1'>EB Switches</NOTE_TEXT>
+		<RECTANGLE a='200.00000,133.00000' b='218.00000,143.00000' style='4' fill='7'/>
+		<NOTE_TEXT a='202.00000,134.00000' b='216.00000,142.00000' direction='3' style='5' fill='6' font='7' color='FF0000' border_style='1'>EB1 C/B&#039;s
+Stacked</NOTE_TEXT>
+		<LABEL pos='235.00000,134.00000' direction='2' font='6' color='208000' style='2'>16S racks</LABEL>
+		<NOTE_TEXT a='236.00000,158.00000' b='269.00000,164.00000' direction='3' style='5' fill='3' font='5' color='FF0000' border_style='1'>East Wall  Control Box</NOTE_TEXT>
+		<WIRE a='201.00000,138.00000' b='193.00000,138.00000'/>
+		<RECTANGLE a='178.00000,147.00000' b='193.00000,159.00000' style='4' fill='12'/>
+		<NOTE_TEXT a='180.00000,149.00000' b='191.00000,157.00000' direction='3' style='5' fill='11' font='7' color='FF0000' border_style='1'>Curent Monitor</NOTE_TEXT>
+		<WIRE a='185.00000,143.00000' b='185.00000,147.00000'/>
+		<WIRE a='218.00000,134.00000' b='235.00000,134.00000'/>
+		<WIRE a='218.00000,136.00000' b='231.00000,136.00000'/>
+		<LABEL pos='235.00000,138.00000' direction='2' font='6' color='208000' style='2'>12STracks</LABEL>
+		<LABEL pos='235.00000,142.00000' direction='2' font='6' color='208000' style='2'>16N Tracks</LABEL>
+		<LABEL pos='235.00000,146.00000' direction='2' font='6' color='208000' style='2'>12N Tracks</LABEL>
+		<WIRE a='231.00000,136.00000' b='231.00000,138.00000'/>
+		<WIRE a='231.00000,138.00000' b='235.00000,138.00000'/>
+		<WIRE a='218.00000,138.00000' b='229.00000,138.00000'/>
+		<WIRE a='229.00000,138.00000' b='229.00000,142.00000'/>
+		<WIRE a='229.00000,142.00000' b='235.00000,142.00000'/>
+		<WIRE a='218.00000,140.00000' b='227.00000,140.00000'/>
+		<WIRE a='227.00000,140.00000' b='227.00000,146.00000'/>
+		<WIRE a='227.00000,146.00000' b='235.00000,146.00000'/>
+		<RECTANGLE a='110.00000,135.00000' b='134.00000,144.00000' style='4' fill='18'/>
+		<NOTE_TEXT a='112.00000,137.00000' b='131.00000,142.00000' direction='3' style='5' fill='17' font='6' color='FF0000' border_style='1'>PB-5 Controller</NOTE_TEXT>
+		<LABEL pos='236.00000,61.00000' direction='2' font='6' color='208000' style='2'>Lower Control Panels</LABEL>
+		<WIRE a='195.00000,65.00000' b='236.00000,65.00000'/>
+		<WIRE a='178.00000,138.00000' b='134.00000,138.00000'/>
+		<BUSNAME pos='118.00000,97.00000' direction='0' font='6' color='208000'>Control bus</BUSNAME>
+		<BUSNAME pos='125.00000,82.00000' direction='0' font='6' color='208000'>DC Bond</BUSNAME>
+		<LABEL pos='103.00000,139.00000' direction='3' font='7' color='208000' style='1'>Mains Power</LABEL>
+		<WIRE a='103.00000,139.00000' b='110.00000,139.00000'/>
+		<BUS a='82.00000,40.00000' b='97.00000,40.00000'/>
+		<POLYGON pos='26.00000,12.00000' style='6' fill='0'>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+			<POINT pos='248.00000,0.00000' arc='0'/>
+			<POINT pos='247.06061,84.00000' arc='0'/>
+			<POINT pos='106.60606,84.00000' arc='0'/>
+			<POINT pos='106.60606,50.40000' arc='0'/>
+			<POINT pos='0.00000,50.40000' arc='0'/>
+			<POINT pos='0.00000,0.00000' arc='0'/>
+		</POLYGON>
+		<TEXT pos='152.00000,22.00000' direction='3' font='10' color='000000'>CENTRE PENINSULA AREA</TEXT>
+		<POLYGON pos='79.00000,125.00000' style='6' fill='0'>
+			<POINT pos='200.00000,0.00000' arc='0'/>
+			<POINT pos='200.00000,47.00000' arc='0'/>
+			<POINT pos='0.00000,47.00000' arc='0'/>
+			<POINT pos='1.00000,0.00000' arc='0'/>
+			<POINT pos='199.00000,0.00000' arc='0'/>
+		</POLYGON>
+		<TEXT pos='128.00000,167.00000' direction='3' font='10' color='000000'>EAST WALL AREA</TEXT>
+		<RECTANGLE a='203.00000,47.00000' b='220.00000,53.00000' style='4' fill='21'/>
+		<NOTE_TEXT a='205.00000,48.00000' b='219.00000,52.00000' direction='3' style='5' fill='20' font='3' color='FF0000' border_style='1'>EB Status</NOTE_TEXT>
+		<RECTANGLE a='201.00000,147.00000' b='218.00000,153.00000' style='4' fill='21'/>
+		<NOTE_TEXT a='203.00000,148.00000' b='217.00000,152.00000' direction='3' style='5' fill='19' font='3' color='FF0000' border_style='1'>EB Status</NOTE_TEXT>
+		<WIRE a='211.00000,43.00000' b='211.00000,47.00000'/>
+		<WIRE a='207.00000,143.00000' b='209.00000,143.00000'/>
+		<WIRE a='209.00000,143.00000' b='209.00000,147.00000'/>
+	</TinyCAD>
+</TinyCADSheets>
+>>>>>>> 085046e41a206122d3a04d51894afd7339cfe668
